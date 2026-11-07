@@ -2,9 +2,10 @@
 
 A public discovery layer for Niroo Universe (N.U). This repository publishes concise, attributable listings and links—not private working material or full copies of third-party works.
 
-## Featured notice
+## Featured notices
 
-[**N.U Narrative & Creative Product Research**](banners/featured-nu-narrative-creative-products.md) — discover the research direction connecting N.U storytelling, worldbuilding, creator resources, stationery, and creative products. Status: research / proposal under review; not a product launch or Canon amendment.
+1. [**N.U — Open Creation Standards & Seed to Product**](banners/featured-nu-standards-and-seed-to-product.md) — public model-readable standards for text, visual design, stationery, physical/digital products, animation, games, fashion, and controlled production. Status: development standard; human review remains open.
+2. [**N.U Narrative & Creative Product Research**](banners/featured-nu-narrative-creative-products.md) — research direction connecting storytelling, worldbuilding, creator resources, stationery, and creative products. Status: research/proposal under review; not a product launch or Canon amendment.
 
 ## Boards
 1. [Future & Development Proposals](boards/future-development-proposals.md)
