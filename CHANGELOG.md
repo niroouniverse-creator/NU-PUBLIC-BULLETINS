@@ -1,3 +1,7 @@
+## 1.2.1
+- Added the public N.U deliverable manifest JSON Schema to the indexed standards list.
+- Expanded the public bulletin protocol to document the fifth board: Public Keyword and Discovery Index.
+
 ## 1.2.0
 - Featured public N.U creation standards and Seed-to-Product development notice.
 - Added a public proposal record and indexed keywords for N.U standards, AI-readable protocols, and cross-media product development.
