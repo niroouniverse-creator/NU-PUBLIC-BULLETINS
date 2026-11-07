@@ -11,22 +11,17 @@ This board is a navigation layer for publicly accessible N.U-related works, inde
 - Keep private contact details, personal data, credentials, private drafts, and unreviewed claims out.
 - A keyword is a discovery aid, not evidence that two works are equivalent.
 
-## Entry format
-
-For each entry, include:
-
-- **Listing ID:** stable, never recycled.
-- **Title:** source-grounded title.
-- **Category:** work, creator, learner resource, reference, community, or other documented type.
-- **Keywords:** concise search terms and related topics.
-- **Public URL:** canonical authorized page.
-- **Attribution:** verified creator/publisher, or "not verified".
-- **Status:** AVAILABLE, CHECK_PENDING, UNAVAILABLE_UNCONFIRMED, REMOVED_CONFIRMED, or RESTORED.
-- **Last checked:** date and method, only when actually checked.
-- **Relationship:** links to related public listings, with the reason for the relationship.
-
 ## Entries
 
-_No public keyword entries have been reviewed and added yet._
+### N.U Narrative & Creative Product Research
+- **Listing ID:** nu-narrative-creative-products
+- **Title:** N.U Narrative & Creative Product Development — Research Notice
+- **Category:** reference / development proposal
+- **Keywords:** N.U, Niroo Universe, storytelling, narrative design, storyworld, worldbuilding, character development, visual storytelling, creator resources, creative products, stationery, notebooks, journals, sketchbooks, writing instruments, story cards, community creativity.
+- **Public URL:** https://github.com/mobinabinshun-beep/NU-PUBLIC-BULLETINS/blob/main/banners/featured-nu-narrative-creative-products.md
+- **Attribution:** Niroo Universe public bulletin; individual authorship of the research synthesis is not represented as a separate public claim.
+- **Status:** AVAILABLE
+- **Last checked:** 2026-11-08, created and verified in this repository.
+- **Relationship:** [Future & Development Proposals](future-development-proposals.md); research notice, not Canon or product-release evidence.
 
 See [link availability and reappearance policy](../policies/link-availability-and-reappearance.md).
