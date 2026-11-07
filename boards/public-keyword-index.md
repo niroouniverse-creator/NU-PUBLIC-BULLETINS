@@ -17,7 +17,7 @@ This board is a navigation layer for publicly accessible N.U-related works, inde
 - **Listing ID:** nu-narrative-creative-products
 - **Title:** N.U Narrative & Creative Product Development — Research Notice
 - **Category:** reference / development proposal
-- **Keywords:** N.U, Niroo Universe, storytelling, narrative design, storyworld, worldbuilding, character development, visual storytelling, creator resources, creative products, stationery, notebooks, journals, sketchbooks, writing instruments, story cards, story bible, narrative voice, focalization, scene design, plot development, story continuity, creator pathway, creative workbook, worldbuilding notebook, comic storyboard, community creativity.
+- **Keywords:** N.U, Niroo Universe, storytelling, narrative design, storyworld, worldbuilding, character development, visual storytelling, creator resources, creative products, stationery, notebooks, journals, sketchbooks, writing instruments, story cards, story bible, narrative voice, focalization, scene design, plot development, story continuity, creator pathway, recursive creative synthesis, P.M.S.E.S.M.C.N.U, creator agency, creative matrix, idea archive, creative lineage, creative workbook, worldbuilding notebook, comic storyboard, community creativity.
 - **Public URL:** https://github.com/mobinabinshun-beep/NU-PUBLIC-BULLETINS/blob/main/banners/featured-nu-narrative-creative-products.md
 - **Attribution:** Niroo Universe public bulletin; individual authorship of the research synthesis is not represented as a separate public claim.
 - **Status:** AVAILABLE
