@@ -18,6 +18,10 @@ The public notice is a discovery summary. Detailed working material and source p
 
 **فارسی:** پژوهش و دسته‌بندی مسیر توسعهٔ روایت‌ها، جهان‌سازی، آثار خلاقانه و محصولات کاربردی و نوشت‌افزار N.U برای اعضا و علاقه‌مندان. این اعلان معرفی یک مسیر پژوهشی است، نه اعلام عرضهٔ محصول یا تأیید رسمی Canon.
 
+## Creator starting point
+
+- [N.U Storytelling & Creator Pathway](../guides/nu-storytelling-creator-pathway.md) — a provisional public guide for newcomers, story development and creative-product exploration.
+
 ## Explore
 
 - [Future & Development Proposals](../boards/future-development-proposals.md)
