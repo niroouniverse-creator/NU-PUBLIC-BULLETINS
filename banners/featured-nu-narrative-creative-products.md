@@ -21,6 +21,7 @@ The public notice is a discovery summary. Detailed working material and source p
 ## Creator starting point
 
 - [N.U Storytelling & Creator Pathway](../guides/nu-storytelling-creator-pathway.md) — a provisional public guide for newcomers, story development and creative-product exploration.
+- [P.M.S.E.S.M.C.N.U — Recursive Creative Synthesis Architecture](https://medium.com/@The.World.of.Niroo.TWoN.N.C/p-m-s-e-s-m-c-n-u-bfab94a536de) — a related published N.U creator-method source.
 
 ## Explore
 
