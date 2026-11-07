@@ -51,5 +51,8 @@
     "gateway": "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY",
     "source_registry": "https://github.com/mobinabinshun-beep/NU-SOURCE-REGISTRY",
     "community_works": "https://github.com/mobinabinshun-beep/NU-COMMUNITY-WORKS"
-  }
+  },
+  "public_guides": [
+    "guides/nu-storytelling-creator-pathway.md"
+  ]
 }
