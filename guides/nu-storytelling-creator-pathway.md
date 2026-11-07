@@ -81,3 +81,10 @@ Explore the original public works:
 - Check current official N.U channels for any future contribution route. This page is not an open submission call.
 
 **Research status:** The current guide is a public starting point. Detailed source analysis and the full creator/product framework remain under review in N.U's private research infrastructure.
+
+
+## A recursive creator method
+
+A related N.U publication, [P.M.S.E.S.M.C.N.U — Recursive Creative Synthesis Architecture](https://medium.com/@The.World.of.Niroo.TWoN.N.C/p-m-s-e-s-m-c-n-u-bfab94a536de), describes a creator-centered cycle: preserve the original idea and intent, clarify and decompose it, explore relationships and alternatives, transform and synthesize, filter and validate, make a creator decision, build and experience the result, then observe and begin the next cycle.
+
+Its practical message for a story or product notebook is to preserve not only the final result, but also the idea, questions, versions, reasons, sources, decisions and next possibility. The method is a published N.U framework; its universal effectiveness has not been independently tested in this research.
