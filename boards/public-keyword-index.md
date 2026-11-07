@@ -24,4 +24,15 @@ This board is a navigation layer for publicly accessible N.U-related works, inde
 - **Last checked:** 2026-11-08, created and verified in this repository.
 - **Relationship:** [Future & Development Proposals](future-development-proposals.md); research notice, not Canon or product-release evidence.
 
+### N.U Open Creation Standards and Seed to Product
+- **Listing ID:** nu-open-creation-standards-seed-to-product
+- **Title:** N.U — Open Creation Standards & Seed to Product
+- **Category:** public standard / development proposal
+- **Keywords:** N.U, Niroo Universe, N.U standards, N.U protocols, machine-readable standard, AI creative workflow, seed to product, writing standard, book standard, encyclopedia, illustration, poster design, stationery, notebook, journal, sketchbook, product design, animation, film, comics, game design, fashion, cultural experience, Alternative Earth, Niroo Engine, TWoN.
+- **Public URL:** https://github.com/mobinabinshun-beep/NU-PUBLIC-BULLETINS/blob/main/banners/featured-nu-standards-and-seed-to-product.md
+- **Standards index:** https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_PUBLIC_STANDARDS_INDEX.md
+- **Status:** AVAILABLE — public development notice.
+- **Last checked:** 2026-11-08, created and verified in this repository.
+- **Relationship:** [Future & Development Proposals](future-development-proposals.md); does not imply Canon, rights clearance, or a product launch.
+
 See [link availability and reappearance policy](../policies/link-availability-and-reappearance.md).
