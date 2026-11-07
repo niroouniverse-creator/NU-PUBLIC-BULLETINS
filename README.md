@@ -2,6 +2,10 @@
 
 A public discovery layer for Niroo Universe (N.U). This repository publishes concise, attributable listings and links—not private working material or full copies of third-party works.
 
+## Featured notice
+
+[**N.U Narrative & Creative Product Research**](banners/featured-nu-narrative-creative-products.md) — discover the research direction connecting N.U storytelling, worldbuilding, creator resources, stationery, and creative products. Status: research / proposal under review; not a product launch or Canon amendment.
+
 ## Boards
 1. [Future & Development Proposals](boards/future-development-proposals.md)
 2. [Creator Opportunities](boards/creator-opportunities.md)
