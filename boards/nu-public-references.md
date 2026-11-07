@@ -21,4 +21,9 @@ Discoverable public N.U references, official pages, and authorized resources.
 - **URL:** https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_MACHINE_VALIDATION_STANDARD.md
 - **Summary:** Shared manifests, status values, provenance rules, and machine-checkable validation expectations.
 
+### N.U Deliverable Manifest JSON Schema
+- **Status:** DEVELOPMENT — public machine-readable schema
+- **URL:** https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/schemas/nu-manifest.schema.json
+- **Summary:** JSON Schema for validating N.U deliverable manifests; validation does not grant approval or rights.
+
 Each listing should include title, canonical URL, concise summary, relevant headings/subtitles, publisher/creator, source date or version when available, and a status label. A listing alone does not establish canon.
