@@ -1,3 +1,9 @@
+## 1.2.0
+- Featured public N.U creation standards and Seed-to-Product development notice.
+- Added a public proposal record and indexed keywords for N.U standards, AI-readable protocols, and cross-media product development.
+- Added public references to the N.U standards index and machine-validation guidance.
+- Kept all notices explicitly non-Canon, non-launch, and subject to rights and human review.
+
 # Changelog
 
 ## 1.1.0
