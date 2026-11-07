@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1.0",
+  "schema_version": "1.2.0",
   "system": "Niroo Universe",
   "repository": "NU-PUBLIC-BULLETINS",
   "visibility": "public",
@@ -16,6 +16,16 @@
     "policies/link-availability-and-reappearance.md"
   ],
   "record_schema": "schemas/bulletin-record.schema.json",
+  "featured_notices": [
+    "banners/featured-nu-standards-and-seed-to-product.md",
+    "banners/featured-nu-narrative-creative-products.md"
+  ],
+  "public_standards": [
+    "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_PUBLIC_STANDARDS_INDEX.md",
+    "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_CREATIVE_PRODUCT_STANDARD.md",
+    "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_MACHINE_VALIDATION_STANDARD.md",
+    "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_QUARANTINE_CONTROL_STANDARD.md"
+  ],
   "related_repositories": {
     "gateway": "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY",
     "source_registry": "https://github.com/mobinabinshun-beep/NU-SOURCE-REGISTRY",
