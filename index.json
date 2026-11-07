@@ -1,14 +1,34 @@
 {
-  "schema_version": "1.2.0",
+  "schema_version": "1.2.1",
   "system": "Niroo Universe",
   "repository": "NU-PUBLIC-BULLETINS",
   "visibility": "public",
   "boards": [
-    {"id":"future-development-proposals","path":"boards/future-development-proposals.md","record_type":"proposal"},
-    {"id":"creator-opportunities","path":"boards/creator-opportunities.md","record_type":"opportunity"},
-    {"id":"nu-public-references","path":"boards/nu-public-references.md","record_type":"reference"},
-    {"id":"independent-publications","path":"boards/independent-publications.md","record_type":"independent_work"},
-    {"id":"public-keyword-index","path":"boards/public-keyword-index.md","record_type":"discovery_index"}
+    {
+      "id": "future-development-proposals",
+      "path": "boards/future-development-proposals.md",
+      "record_type": "proposal"
+    },
+    {
+      "id": "creator-opportunities",
+      "path": "boards/creator-opportunities.md",
+      "record_type": "opportunity"
+    },
+    {
+      "id": "nu-public-references",
+      "path": "boards/nu-public-references.md",
+      "record_type": "reference"
+    },
+    {
+      "id": "independent-publications",
+      "path": "boards/independent-publications.md",
+      "record_type": "independent_work"
+    },
+    {
+      "id": "public-keyword-index",
+      "path": "boards/public-keyword-index.md",
+      "record_type": "discovery_index"
+    }
   ],
   "policies": [
     "policies/listing-policy.md",
@@ -24,7 +44,8 @@
     "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_PUBLIC_STANDARDS_INDEX.md",
     "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_CREATIVE_PRODUCT_STANDARD.md",
     "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_MACHINE_VALIDATION_STANDARD.md",
-    "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_QUARANTINE_CONTROL_STANDARD.md"
+    "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_QUARANTINE_CONTROL_STANDARD.md",
+    "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/schemas/nu-manifest.schema.json"
   ],
   "related_repositories": {
     "gateway": "https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY",
