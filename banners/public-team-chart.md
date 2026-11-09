@@ -28,3 +28,8 @@ The cited publication does not assign a specific job title to every person in th
 
 ## Update rule
 Add a name or role only after a public source is located and inspected. Preserve the exact public spelling. If a role is not stated, list the person only as publicly acknowledged; do not invent a title. For corrections, update this chart with a dated note and preserve the prior source context.
+
+
+## Public board and governing protocol
+- [N.U Public Announcements](../boards/announcements.md)
+- [Public Announcement and Routing Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-ANNOUNCEMENT-ROUTING.md)
