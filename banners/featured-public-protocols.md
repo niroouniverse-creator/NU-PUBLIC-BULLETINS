@@ -3,11 +3,12 @@
 **Status:** PUBLIC — MODEL-READABLE DEVELOPMENT STANDARDS  
 **Audience:** creators, researchers, SEO writers, AI generators, browser-based models, and interested readers.
 
-N.U is making its public creation and validation standards readable without access to private infrastructure. A creator can use any tool—from pen, paper, and drawing to professional software and AI generators.
+N.U is making its public creation, archive, and validation standards readable without access to private infrastructure. A creator can use any tool—from pen, paper, and drawing to professional software and AI generators.
 
 ## Start here
 - [N.U Public Model Entry Point](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md)
 - [Creation and Machine Validation](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATION-AND-MACHINE-VALIDATION.md)
+- [Quarantine, Archive Identity and Conflict Control](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-QUARANTINE-AND-CONFLICT-CONTROL.md)
 - [SEO and Media Publication](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md)
 - [Creator Review and Recognition](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATOR-STATUS-AND-RECOGNITION.md)
 - [Announcement Routing](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-ANNOUNCEMENT-ROUTING.md)
@@ -16,6 +17,7 @@ N.U is making its public creation and validation standards readable without acce
 - [Announcements](../boards/announcements.md)
 - [Media Publications](../boards/media-publications.md)
 - [Independent Stories](../boards/independent-stories.md)
+- [N.U Public References](../boards/nu-public-references.md)
 
 **Machine validation is not final approval.** Human decisions are separate and are publicly announced only when authorized.
 
