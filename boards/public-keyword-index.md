@@ -6,6 +6,7 @@ This board is a navigation layer for publicly accessible N.U-related works, stan
 - **N.U Public Protocol Registry** — [repository](https://github.com/niroouniverse-creator/N.U-Protocol-Registry); keywords: N.U protocol, AI generator standard, machine validation, creator workflow, SEO protocol, media publication, independent creator.
 - **N.U Public Model Entry Point** — [read protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md); keywords: Niroo Universe, N.U AI model, N.U creator standards, public model instructions.
 - **N.U SEO and Media Publication Protocol** — [read protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md); keywords: N.U SEO, N.U SEO team, SEO article, Persian SEO, media publication, AI-assisted article writing.
+- **N.U Quarantine, Archive Identity and Conflict Control** — [read protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-QUARANTINE-AND-CONFLICT-CONTROL.md); keywords: N.U archive, archive reason, stable archive ID, quarantine, duplicate, contradiction, conflict resolution, deferred ideas.
 - **N.U Public Announcements** — [announcement board](announcements.md); keywords: N.U announcements, N.U public notices, creator updates, workflow status.
 - **N.U Media Publications** — [media board](media-publications.md); keywords: N.U article, SEO article, N.U Persian Land, G.G Persian Land, N.U publication.
 - **N.U Independent Stories** — [independent works board](independent-stories.md); keywords: independent N.U story, creator story, fan work, independent interpretation, community art.
@@ -25,4 +26,4 @@ This board is a navigation layer for publicly accessible N.U-related works, stan
 - Keep private contact details, personal data, credentials, private drafts, and unreviewed claims out.
 - A keyword is a discovery aid, not evidence that two works are equivalent.
 
-**Last updated:** 2026-11-09. Public GitHub Markdown and JSON are browser-readable and may be indexed by search engines; indexing is not guaranteed. Inspect original pages rather than relying only on snippets.
+**Last updated:** 2026-11-09. Public GitHub Markdown and JSON are browser-readable and may be indexed by search engines; indexing is not guaranteed.
