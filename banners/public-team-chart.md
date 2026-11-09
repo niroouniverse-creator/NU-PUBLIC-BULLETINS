@@ -46,4 +46,4 @@ The same public publication has a separate “Publishing Network” section. The
 These are source-reported account/credit references, not independently verified legal identities, employment, rights, or permissions. Do not merge aliases or infer a formal hierarchy without additional evidence.
 
 ## Source-based credit record
-[Private source-of-truth credit record](https://github.com/niroouniverse-creator/NU-PEOPLE-AND-CREDITS/blob/main/credits/2026/CREDIT-2026-0001-public-nu-introduction.md) is restricted; public readers should use the original [Medium source](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-bea66efc81e0).
+A private source-of-truth credit record is maintained separately; public readers should use the original [Medium source](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-bea66efc81e0).
