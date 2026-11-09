@@ -6,8 +6,9 @@ A public discovery layer for Niroo Universe (N.U). This repository publishes con
 1. [N.U Open Creation Standards & Seed to Product](banners/featured-nu-standards-and-seed-to-product.md)
 2. [N.U Public Protocols for Models and Creators](banners/featured-public-protocols.md)
 3. [N.U SEO Team: Public Production Protocol](banners/featured-seo-protocol.md)
-4. [N.U Public Team and Acknowledgments Chart](banners/public-team-chart.md)
-5. [N.U Narrative & Creative Product Research](banners/featured-nu-narrative-creative-products.md)
+4. [N.U Quarantine, Archive Identity and Conflict Control](banners/featured-quarantine-and-archive-protocol.md)
+5. [N.U Public Team and Acknowledgments Chart](banners/public-team-chart.md)
+6. [N.U Narrative & Creative Product Research](banners/featured-nu-narrative-creative-products.md)
 
 ## Boards
 1. [Announcements](boards/announcements.md)
@@ -23,6 +24,7 @@ A public discovery layer for Niroo Universe (N.U). This repository publishes con
 - [N.U Public Protocol Registry](https://github.com/niroouniverse-creator/N.U-Protocol-Registry)
 - [N.U Public Index](https://github.com/niroouniverse-creator/N.U-Public-Index)
 - [SEO and Media Publication Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md)
+- [Quarantine and Conflict-Control Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-QUARANTINE-AND-CONFLICT-CONTROL.md)
 - [Creator Review and Recognition Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATOR-STATUS-AND-RECOGNITION.md)
 
 ## Rules
