@@ -13,10 +13,15 @@ This board is a navigation layer for publicly accessible N.U-related works, stan
 - **Public Team Chart** — [chart](../banners/public-team-chart.md); keywords: N.U team, Niroo Universe team acknowledgments, public credits.
 - **N.U Public Index** — [central index](https://github.com/niroouniverse-creator/N.U-Public-Index); keywords: N.U public index, public N.U sources, public protocol navigation.
 
-## Original public references
-- [N.U — Niroo Universe](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-bea66efc81e0)
-- [N.U Storytelling & Creator Pathway](../guides/nu-storytelling-creator-pathway.md)
-- [N.U Open Creation Standards & Seed to Product](../banners/featured-nu-standards-and-seed-to-product.md)
+## Original public N.U works and discovery terms
+- [N.U — Niroo Universe](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-bea66efc81e0) — N.U, Niroo Universe, Niroo, Binam Binshun, TWoN, TWoC, Niroo City, public N.U introduction.
+- [Another Earth](https://medium.com/@The.World.of.Niroo.TWoN.N.C/another-earth-25ad15466acd) — Alternative Earth, future Earth, worldbuilding, N.U philosophy, speculative world.
+- [CHAOS — The N.U Engine of Instability](https://medium.com/@The.World.of.Niroo.TWoN.N.C/chaos-6966f671840d) — Chaos, systems, instability, N.U worldbuilding.
+- [N.U Visual Engine Book](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-visual-engine-book-5b909ece70a6) — N.U visual identity, illustration, visual storytelling, design.
+- [Adrenaline Circuit](https://medium.com/@The.World.of.Xbinshun.TWoXbi/the-world-of-xbinshun-ee767a51952b) — Xbinshun, cinematic storytelling, action scenes, TWoXbi.
+- [Niroo City](https://medium.com/@Niroo.Universe.NU/niroo-city-03bdf641f616) — Niroo City, urban storytelling, city vignette.
+- [CREATE IT YOURSELF](https://medium.com/@The.World.of.Niroo.TWoN.N.C/create-it-yourself-thats-it-ae2e48c57b39) — creator pathway, idea development, creative process.
+- [P.M.S.E.S.M.C.N.U](https://medium.com/@The.World.of.Niroo.TWoN.N.C/p-m-s-e-s-m-c-n-u-bfab94a536de) — recursive creative synthesis, creator architecture, creative matrix, creative archive.
 
 ## Listing rules
 - Add only public URLs that were checked and are appropriate to share.
