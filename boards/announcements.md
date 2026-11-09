@@ -5,6 +5,7 @@
 ## Featured notices
 - [N.U Public Protocols for Models and Creators](../banners/featured-public-protocols.md)
 - [N.U SEO and Media Publication Protocol](../banners/featured-seo-protocol.md)
+- [N.U Quarantine, Archive Identity and Conflict Control](../banners/featured-quarantine-and-archive-protocol.md)
 - [Public N.U Team Chart](../banners/public-team-chart.md)
 
 ## How to follow an announcement
@@ -17,6 +18,7 @@ Each notice must link to its governing protocol. The protocol must link back to 
 - **ANN-2026-0001 — Public protocol registry and creator pathway** — PUBLISHED; public standards and model entry point are available. See [protocol notice](../banners/featured-public-protocols.md).
 - **ANN-2026-0002 — SEO team public workflow** — PUBLISHED; see [SEO notice](../banners/featured-seo-protocol.md).
 - **ANN-2026-0003 — Public team acknowledgments chart** — PUBLISHED; sourced names and explicitly stated roles only. See [team chart](../banners/public-team-chart.md).
+- **ANN-2026-0004 — Quarantine, archive identity and conflict control** — PUBLISHED; stable IDs, archive reasons, preservation, and unresolved conflict handling. See [archive notice](../banners/featured-quarantine-and-archive-protocol.md).
 
 ## Status boundary
 This board announces public documentation. It does not claim search engines have indexed the pages, nor does it grant repository access, rights, or approval to any work.
