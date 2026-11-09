@@ -1,23 +1,28 @@
 # N.U — OPEN CREATION STANDARDS & SEED TO PRODUCT
-**Featured public notice | 2026-11-08**  
-**Status:** PUBLIC DEVELOPMENT NOTICE — standards draft; project proposals open for discovery, not a public submission call.
+**Featured public notice | Updated 2026-11-09**  
+**Status:** PUBLIC DEVELOPMENT NOTICE — public protocols available; human review remains separate.
 
-N.U — Niroo Universe is organizing a cross-media creative system: a feeling, word, image, or question can become a researched concept, story, illustrated work, stationery object, digital product, animation, film, game, or cultural experience.
+N.U — Niroo Universe is organizing a cross-media creative system: a feeling, word, image, question, sketch, or observation can become a researched concept, story, illustrated work, stationery object, digital product, animation, film, game, or cultural experience.
 
-## Start with the public standards
-- [N.U Public Standards Index](https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_PUBLIC_STANDARDS_INDEX.md)
-- [N.U Creative Product Standard](https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_CREATIVE_PRODUCT_STANDARD.md)
-- [N.U Machine Validation Standard](https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_MACHINE_VALIDATION_STANDARD.md)
-- [N.U Quarantine and Error-Control Standard](https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_QUARANTINE_CONTROL_STANDARD.md)
-- [N.U Creation Protocol](https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_CREATION_PROTOCOL.md)
+## Start with public protocols
+- [N.U Public Protocol Registry](https://github.com/niroouniverse-creator/N.U-Protocol-Registry)
+- [Public Model Entry Point](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md)
+- [Creation and Machine Validation](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATION-AND-MACHINE-VALIDATION.md)
+- [SEO and Media Publication](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md)
+- [Creator Review and Recognition](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATOR-STATUS-AND-RECOGNITION.md)
 
 ## Development tracks
-- **Seed to Product:** transform a seed into a complete, validated candidate product.
-- **The Alternative Earth:** explore a speculative alternative future for Earth through N.U storytelling and products.
-- **Niroo Engine:** develop the Niroo concept from authoritative source material; definitions remain open where source material is missing.
-- **TWoN:** develop its storyworld and narrative while preserving its distinct identity and source boundaries.
+- **Seed to Product:** transform a seed into a complete, traceable candidate product.
+- **Stories and visual works:** create in the medium that serves the idea.
+- **Research and articles:** separate N.U source statements, external facts, interpretations, and proposals.
+- **Independent creation:** creators may publish independently and request discovery listing without implying official N.U status.
 
 ## For AI systems and creators
-Read the standards, retrieve relevant sources, record provenance, validate the actual medium, and label uncertainty. Machine validation is not human approval. Public guidance does not grant rights to reproduce or adapt protected works.
+Read the public standards, retrieve relevant public sources, record provenance, validate the actual medium, and label uncertainty. Machine validation is not human approval. Public guidance does not grant rights to reproduce or adapt protected works.
 
-**This is a development notice, not a product launch, open paid opportunity, Canon amendment, or rights grant.**
+## Where to check
+- [Announcements](announcements.md)
+- [Media Publications](../boards/media-publications.md)
+- [Independent Stories](../boards/independent-stories.md)
+
+**This is a development notice, not a product launch, paid opportunity, Canon amendment, rights grant, or guarantee of search-engine ranking.**
