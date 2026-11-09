@@ -2,6 +2,11 @@
 **Board ID:** NU-MEDIA-PUBLICATIONS-001  
 **Purpose:** Index publicly released N.U media articles, SEO publications, essays, research explainers, and other editorial outputs.
 
+## Governing protocols
+- [N.U SEO and Media Publication Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md)
+- [N.U Creator Review, Status and Recognition Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATOR-STATUS-AND-RECOGNITION.md)
+- [N.U Public Announcement and Routing Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-ANNOUNCEMENT-ROUTING.md)
+
 ## Publication destinations
 The project has identified **N.U Persian Land** and **G.G Persian Land** as intended media outlets. Their exact public URLs have not yet been verified in this public registry; no URL is guessed here. Add the verified outlet links when they are confirmed.
 
@@ -23,3 +28,7 @@ Each published item should include:
 
 ## Important
 Machine validation is not final producer or N.U team approval. Do not list an unpublished draft as a published article. A public listing is not an endorsement, rights grant, or proof of Canon status.
+
+## Follow updates
+- [N.U Public Announcements](announcements.md)
+- [Public Keyword and Discovery Index](public-keyword-index.md)
