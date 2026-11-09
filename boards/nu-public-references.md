@@ -1,29 +1,39 @@
 # N.U Public References
 
-Discoverable public N.U references, official pages, and authorized resources.
+Discoverable public N.U references, standards, protocols, and authorized resources.
 
-## Listings
+## Public protocols and standards
 
-### N.U Public Standards Index
-- **Status:** AVAILABLE — public development guidance
-- **URL:** https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_PUBLIC_STANDARDS_INDEX.md
-- **Summary:** Entry point for N.U model-independent creation, cross-media quality, machine validation, quarantine, source lifecycle, and release standards.
-- **Version:** 0.1.0 for newly published creative and machine-validation standards; see each file for its own status.
-- **Limit:** public guidance, not write permission, Canon approval, rights clearance, or guaranteed search-engine/model indexing.
+### N.U Public Protocol Registry
+- **Status:** AVAILABLE — public development standards
+- **URL:** https://github.com/niroouniverse-creator/N.U-Protocol-Registry
+- **Summary:** Public model entrypoint, creation and machine validation, SEO and media publication, creator status, and announcement routing.
 
-### N.U Creative Product Standard
-- **Status:** DEVELOPMENT — public draft
-- **URL:** https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_CREATIVE_PRODUCT_STANDARD.md
-- **Summary:** Cross-media acceptance criteria for text, books, illustration, posters, stationery, physical/digital products, film, animation, games, fashion, and cultural experiences.
+### N.U Public Model Entry Point
+- **Status:** AVAILABLE — public development protocol
+- **URL:** https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md
+- **Summary:** Browser-readable starting instructions for AI models and creators using public N.U sources and standards without private infrastructure access.
 
-### N.U Machine Validation Standard
-- **Status:** DEVELOPMENT — public draft
-- **URL:** https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_MACHINE_VALIDATION_STANDARD.md
-- **Summary:** Shared manifests, status values, provenance rules, and machine-checkable validation expectations.
+### N.U SEO and Media Publication Protocol
+- **Status:** AVAILABLE — public development protocol
+- **URL:** https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md
+- **Summary:** Practical SEO workflow for the N.U SEO team and independent writers using AI generators, with separate machine and human decisions.
 
-### N.U Deliverable Manifest JSON Schema
-- **Status:** DEVELOPMENT — public machine-readable schema
-- **URL:** https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/schemas/nu-manifest.schema.json
-- **Summary:** JSON Schema for validating N.U deliverable manifests; validation does not grant approval or rights.
+### N.U Creation and Machine Validation Protocol
+- **Status:** AVAILABLE — public development protocol
+- **URL:** https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATION-AND-MACHINE-VALIDATION.md
+- **Summary:** Tool-independent process for turning a seed into a candidate work and reporting machine-checkable validation.
 
-Each listing should include title, canonical URL, concise summary, relevant headings/subtitles, publisher/creator, source date or version when available, and a status label. A listing alone does not establish canon.
+### N.U Creator Review and Recognition Protocol
+- **Status:** AVAILABLE — public development protocol
+- **URL:** https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATOR-STATUS-AND-RECOGNITION.md
+- **Summary:** Separates machine validation, producer decision, N.U team decision, public status, and independent creator recognition.
+
+## Original public N.U sources
+- [N.U — Niroo Universe](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-bea66efc81e0)
+- [N.U Storytelling & Creator Pathway](../guides/nu-storytelling-creator-pathway.md)
+- [N.U Open Creation Standards & Seed to Product](../banners/featured-nu-standards-and-seed-to-product.md)
+
+Each listing should include title, canonical URL, concise summary, relevant headings/subtitles, publisher/creator only when verified, source date or version when available, and a status label. A listing alone does not establish Canon.
+
+Private repositories and internal files are intentionally not linked as public reading destinations.
