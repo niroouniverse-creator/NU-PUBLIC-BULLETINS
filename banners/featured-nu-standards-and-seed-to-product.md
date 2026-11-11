@@ -1,5 +1,5 @@
 # N.U — OPEN CREATION STANDARDS & SEED TO PRODUCT
-**Featured public notice | Updated 2026-11-09**  
+**Featured public notice | Updated 2026-11-11**  
 **Status:** PUBLIC DEVELOPMENT NOTICE — public protocols available; human review remains separate.
 
 N.U — Niroo Universe is organizing a cross-media creative system: a feeling, word, image, question, sketch, or observation can become a researched concept, story, illustrated work, stationery object, digital product, animation, film, game, or cultural experience.
@@ -15,7 +15,13 @@ N.U — Niroo Universe is organizing a cross-media creative system: a feeling, w
 - **Seed to Product:** transform a seed into a complete, traceable candidate product.
 - **Stories and visual works:** create in the medium that serves the idea.
 - **Research and articles:** separate N.U source statements, external facts, interpretations, and proposals.
-- **Independent creation:** creators may publish independently and request discovery listing without implying official N.U status.
+- **Independent creation:** creators may publish independently. Publication/listing on connected official N.U public network surfaces is team-approved for network inclusion, but does not by itself change Canon, ownership or rights.
+
+## Recent public creator resources
+- [The Art of Writing Without Dialogue](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-art-of-writing-without-dialogue-b19bf913ba86)
+- [N.U — The Grammar of Point of View in Narrative](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-the-grammar-of-point-of-view-in-narrative-bbb080908def)
+- [CHAT GPT ENGINE N.U](https://medium.com/@The.World.of.Niroo.TWoN.N.C/chat-gpt-engine-n-u-44f56f6d00d7)
+- [Latest public works and creator resources](featured-latest-publications-2026-11.md)
 
 ## For AI systems and creators
 Read the public standards, retrieve relevant public sources, record provenance, validate the actual medium, and label uncertainty. Machine validation is not human approval. Public guidance does not grant rights to reproduce or adapt protected works.
