@@ -3,6 +3,7 @@
 **Purpose:** The public noticeboard for current N.U protocols, process notices, creator guidance, and publicly announceable decisions.
 
 ## Featured notices
+- [N.U Discovery Atlas — Guided Discovery Routes](../banners/featured-nu-discovery-atlas.md)
 - [N.U Public Protocols for Models and Creators](../banners/featured-public-protocols.md)
 - [N.U SEO and Media Publication Protocol](../banners/featured-seo-protocol.md)
 - [N.U Quarantine, Archive Identity and Conflict Control](../banners/featured-quarantine-and-archive-protocol.md)
@@ -16,6 +17,7 @@ Each notice must link to its governing protocol. The protocol must link back to 
 - General decision/process update → this board
 
 ## Current public notices
+- **ANN-2026-0006 — N.U Discovery Atlas discovery route** — PUBLISHED 2026-11-12 as a public bulletin/banner. The companion Medium article remains in development; no publication, machine PASS, producer approval, or N.U team approval is claimed. The Atlas routes readers and models to existing public indexes, primary sources, and governing protocols without duplicating the catalogues. See [Discovery Atlas board](discovery-atlas.md) and [featured banner](../banners/featured-nu-discovery-atlas.md).
 - **ANN-2026-0001 — Public protocol registry and creator pathway** — PUBLISHED; public standards and model entry point are available. See [protocol notice](../banners/featured-public-protocols.md).
 - **ANN-2026-0002 — SEO team public workflow** — PUBLISHED; see [SEO notice](../banners/featured-seo-protocol.md).
 - **ANN-2026-0003 — Public team acknowledgments chart** — PUBLISHED; sourced names and explicitly stated roles only. See [team chart](../banners/public-team-chart.md).
