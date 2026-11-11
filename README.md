@@ -3,24 +3,25 @@
 A public discovery layer for Niroo Universe (N.U). This repository publishes concise, attributable notices and indexes—not private working material or full copies of third-party works.
 
 ## Featured notices
-1. [N.U Open Creation Standards & Seed to Product](banners/featured-nu-standards-and-seed-to-product.md)
-2. [N.U Public Protocols for Models and Creators](banners/featured-public-protocols.md)
-3. [N.U SEO Team: Public Production Protocol](banners/featured-seo-protocol.md)
-4. [N.U Quarantine, Archive Identity and Conflict Control](banners/featured-quarantine-and-archive-protocol.md)
-5. [N.U Public Team and Acknowledgments Chart](banners/public-team-chart.md)
-6. [N.U Narrative & Creative Product Research](banners/featured-nu-narrative-creative-products.md)
-7. [Latest Public N.U Works & Creator Resources](banners/featured-latest-publications-2026-11.md)
-8. [N.U Discovery Atlas](banners/featured-nu-discovery-atlas.md)
+1. [N.U Discovery Atlas](banners/featured-nu-discovery-atlas.md)
+2. [N.U Open Creation Standards & Seed to Product](banners/featured-nu-standards-and-seed-to-product.md)
+3. [N.U Public Protocols for Models and Creators](banners/featured-public-protocols.md)
+4. [N.U SEO Team: Public Production Protocol](banners/featured-seo-protocol.md)
+5. [N.U Quarantine, Archive Identity and Conflict Control](banners/featured-quarantine-and-archive-protocol.md)
+6. [N.U Public Team and Acknowledgments Chart](banners/public-team-chart.md)
+7. [N.U Narrative & Creative Product Research](banners/featured-nu-narrative-creative-products.md)
+8. [Latest Public N.U Works & Creator Resources](banners/featured-latest-publications-2026-11.md)
 
 ## Boards
-1. [Announcements](boards/announcements.md)
-2. [Media Publications](boards/media-publications.md)
-3. [Independent Stories and Creator Works](boards/independent-stories.md)
-4. [Future & Development Proposals](boards/future-development-proposals.md)
-5. [Creator Opportunities](boards/creator-opportunities.md)
-6. [N.U Public References](boards/nu-public-references.md)
-7. [Independent Publications](boards/independent-publications.md)
-8. [Public Keyword and Discovery Index](boards/public-keyword-index.md)
+1. [N.U Discovery Atlas](boards/discovery-atlas.md)
+2. [Announcements](boards/announcements.md)
+3. [Media Publications](boards/media-publications.md)
+4. [Independent Stories and Creator Works](boards/independent-stories.md)
+5. [Future & Development Proposals](boards/future-development-proposals.md)
+6. [Creator Opportunities](boards/creator-opportunities.md)
+7. [N.U Public References](boards/nu-public-references.md)
+8. [Independent Publications](boards/independent-publications.md)
+9. [Public Keyword and Discovery Index](boards/public-keyword-index.md)
 
 ## Creator and model protocols
 - [N.U Public Protocol Registry](https://github.com/niroouniverse-creator/N.U-Protocol-Registry)
