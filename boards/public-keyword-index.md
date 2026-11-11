@@ -80,3 +80,7 @@ The following items are published on connected N.U public profiles and are team-
 - A keyword is a discovery aid, not evidence that two works are equivalent.
 
 **Last updated:** 2026-11-11 (follow-up: two pinned long-form works added). Public GitHub Markdown and JSON are browser-readable and may be indexed by search engines; indexing is not guaranteed.
+
+
+## N.U Discovery Atlas — guided routes
+- **N.U Discovery Atlas** — [public bulletin board](discovery-atlas.md); [featured notice](../banners/featured-nu-discovery-atlas.md); keywords: N.U discovery atlas, Niroo Universe guide, BOOK, MOTOR, BOOK-MOTOR, N.U Signature, AI model navigation, creator research workflow, machine validation, source discovery.
