@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.6 — 2026-11-12
+- Added the N.U Discovery Atlas public bulletin board and featured banner as a guided route across existing indexes, primary sources, and creator protocols.
+- Registered the new discovery board and banner in README and index.json; added announcement and keyword routing.
+- Explicitly marked the companion Medium article as in development; no publication or machine/human approval is claimed.
+
+# Changelog
+
 ## 1.2.5 — 2026-11-11
 - Added SRC-2026-0012, a recent Persian-language independent creator story from a connected author profile, to the Independent Stories board, keyword index, featured notice and central public index.
 - Preserved independent creator status; network inclusion does not imply core N.U production, Canon, ownership transfer or rights clearance.
