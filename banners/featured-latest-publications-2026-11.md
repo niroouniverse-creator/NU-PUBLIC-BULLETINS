@@ -33,6 +33,10 @@ These are earlier publications discovered from the connected Niroo Universe prof
 
 - [The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence](https://medium.com/@Niroo.Universe.NU/the-world-of-niroo-a-structural-framework-of-civilization-consciousness-and-digital-existence-d616f3f2a816) — published 2026-06-23; displayed byline Binam Binshun. This is an earlier conceptual framework article, newly indexed now; terminology and architecture review remain open.
 
+## Recent connected creator story — 2026-11-11
+
+- [THE WORLD OF NIROO: Lucifer, The Devil & Chaos](https://medium.com/@bibinambinshun/the-world-of-niroo-lucifer-the-devil-chaos-76143ed7394a) — Persian speculative dialogue; displayed byline Binam Binshun; Medium showed “3 days ago” at retrieval. Listed as an independent creator work with team-approved network inclusion; full review pending.
+
 ## Review and rights status
 
 - Public URLs and displayed publication dates were checked through the connected profiles and page links.
@@ -45,6 +49,7 @@ These are earlier publications discovered from the connected Niroo Universe prof
 ## Follow the network
 
 - [N.U Public Announcements](../boards/announcements.md)
+- [N.U Independent Stories and Creator Works](../boards/independent-stories.md)
 - [N.U Public References](../boards/nu-public-references.md)
 - [Media Publications](../boards/media-publications.md)
 - [Public Keyword and Discovery Index](../boards/public-keyword-index.md)
