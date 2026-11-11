@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.5 — 2026-11-11
+- Added SRC-2026-0012, a recent Persian-language independent creator story from a connected author profile, to the Independent Stories board, keyword index, featured notice and central public index.
+- Preserved independent creator status; network inclusion does not imply core N.U production, Canon, ownership transfer or rights clearance.
+
+
 ## 1.2.4 — 2026-11-11
 - Added the public structural-framework article “The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence” to the references board, keyword index and central public index.
 - Marked its Niroo/Vein/Maya/Xbinshun/Niroo City definitions as partially reviewed with architecture compatibility pending; no Canon promotion or full-text mirroring.
