@@ -1,3 +1,12 @@
+# Changelog
+
+## 1.2.2 — 2026-11-11
+- Added a featured notice for 23 newly indexed works from connected N.U public profiles.
+- Added seven published creator, narrative-method and research resources to the Media Publications board.
+- Updated the public reference and keyword boards with verified source URLs and publication dates.
+- Clarified that connected official-network publication/listing is team-approved for network inclusion, while Canon, ownership, licensing and reproduction rights remain separate.
+- Updated the public listing policy and record-schema disclaimer to match the current N.U network-governance rule.
+
 ## 1.2.1
 - Added the public N.U deliverable manifest JSON Schema to the indexed standards list.
 - Expanded the public bulletin protocol to document the fifth board: Public Keyword and Discovery Index.
