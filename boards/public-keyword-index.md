@@ -62,6 +62,10 @@ The following items are published on connected N.U public profiles and are team-
 ### Additional public framework article indexed later on 2026-11-11
 - [The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence](https://medium.com/@Niroo.Universe.NU/the-world-of-niroo-a-structural-framework-of-civilization-consciousness-and-digital-existence-d616f3f2a816) — Niroo, Chaos, Vein, Maya, Binam Binshun, Xbinshun, Niroo City, civilizational framework; terminology/architecture review pending.
 
+### Connected independent creator work indexed — 2026-11-11
+- [THE WORLD OF NIROO: Lucifer, The Devil & Chaos](https://medium.com/@bibinambinshun/the-world-of-niroo-lucifer-the-devil-chaos-76143ed7394a) — Binam Binshun; Persian speculative dialogue; linked author profile; team-approved for network inclusion while remaining independent; partial review.
+- [N.U Independent Stories and Creator Works](independent-stories.md) — independent creator works and community stories; network inclusion does not transfer ownership or Canon status.
+
 ## Network governance and status
 - A work or link published/listed on the connected official N.U public network is team-approved for network inclusion.
 - That inclusion alone does not alter Canon, transfer ownership, grant rights, or prove every factual claim.
