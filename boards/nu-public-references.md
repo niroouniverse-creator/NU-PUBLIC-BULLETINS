@@ -2,6 +2,8 @@
 
 Discoverable public N.U references, standards, protocols, and authorized resources.
 
+Latest discovery notice: [Latest Public N.U Works & Creator Resources](../banners/featured-latest-publications-2026-11.md) · [Public Announcements](announcements.md).
+
 ## Public protocols and standards
 - [N.U Public Protocol Registry](https://github.com/niroouniverse-creator/N.U-Protocol-Registry) — complete public protocol directory.
 - [N.U Public Model Entry Point](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md) — browser-readable starting instructions for AI models and creators.
