@@ -2,6 +2,8 @@
 **Board ID:** NU-INDEPENDENT-STORIES-001  
 **Purpose:** Discover independently published stories, short fiction, comics, illustrations, visual experiments, and other creator works that may be related to or inspired by N.U.
 
+Latest discovery notice: [Featured N.U works](../banners/featured-latest-publications-2026-11.md) · [Public Announcements](announcements.md) · [Public References](nu-public-references.md) · [Public Keyword Index](public-keyword-index.md).
+
 ## Listings
 ## SRC-2026-0012 — THE WORLD OF NIROO: Lucifer, The Devil & Chaos
 
