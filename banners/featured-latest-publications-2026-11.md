@@ -22,6 +22,13 @@ Under N.U public-network governance, works and links published or registered on 
 
 New public story and creator-work links—including Binshun Family episodes, فصل خرمالو, the Dark Apple series, The Rise of the Shadow, STREET STARS N.U, The Seven Echoes and visual-development prompts—are indexed in the [N.U Public References Board](../boards/nu-public-references.md) and [Public Keyword and Discovery Index](../boards/public-keyword-index.md).
 
+## Additional pinned long-form works newly indexed — 2026-11-11
+
+These are earlier publications discovered from the connected Niroo Universe profile and added to the public discovery index in this follow-up. They are not represented as newly published on this date.
+
+- [NIROOCITY — The Last Dream of Humanity](https://medium.com/@Niroo.Universe.NU/niroocity-c3edccff0a36) — lore guide narrated by Maya; published 2026-06-16; terminology/chronology review pending.
+- [BINAM BINSHUN — The Architect of a Heaven Yet to Be Built](https://medium.com/@Niroo.Universe.NU/binam-binshun-the-world-of-niroo-the-architect-of-a-heaven-yet-to-be-built-20587fdef570) — short character/worldbuilding narrative; published 2026-07-26; visual-source rights review pending.
+
 ## Review and rights status
 
 - Public URLs and displayed publication dates were checked through the connected profiles and page links.
