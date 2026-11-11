@@ -43,6 +43,11 @@
       "id": "public-keyword-index",
       "path": "boards/public-keyword-index.md",
       "record_type": "discovery_index"
+    },
+    {
+      "id": "discovery-atlas",
+      "path": "boards/discovery-atlas.md",
+      "record_type": "discovery_guide"
     }
   ],
   "policies": [
@@ -58,7 +63,8 @@
     "banners/featured-quarantine-and-archive-protocol.md",
     "banners/public-team-chart.md",
     "banners/featured-nu-narrative-creative-products.md",
-    "banners/featured-latest-publications-2026-11.md"
+    "banners/featured-latest-publications-2026-11.md",
+    "banners/featured-nu-discovery-atlas.md"
   ],
   "public_standards": [
     "https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md",
