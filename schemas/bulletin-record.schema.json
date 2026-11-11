@@ -22,7 +22,7 @@
     "evidence_refs": {"type":"array","items":{"type":"string"}},
     "destination": {"type":"string","maxLength":500},
     "rights_note": {"type":"string","maxLength":1000},
-    "listing_disclaimer": {"const":"Listing is not endorsement, canon approval, official status, or rights clearance."}
+    "listing_disclaimer": {"const":"Team-approved for inclusion in the official N.U public network only; listing does not amend Canon, transfer ownership, grant licensing or reproduction rights, or imply blanket endorsement."}
   },
   "additionalProperties": false
 }
