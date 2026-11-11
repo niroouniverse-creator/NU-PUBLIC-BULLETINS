@@ -2,6 +2,8 @@
 
 Discoverable public N.U references, standards, protocols, and authorized resources.
 
+Related creator work: [N.U Independent Stories and Creator Works](independent-stories.md).
+
 Latest discovery notice: [Latest Public N.U Works & Creator Resources](../banners/featured-latest-publications-2026-11.md) · [Public Announcements](announcements.md).
 
 ## Public protocols and standards
