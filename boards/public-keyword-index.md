@@ -54,6 +54,10 @@ The following items are published on connected N.U public profiles and are team-
 - [Niroo Universe (N.U) — The Seven Echoes](https://medium.com/@The.World.of.Xbinshun.TWoXbi/niroo-universe-n-u-5b2f82c3202f) — Seven Echoes, fantasy, Niroo Universe.
 - [Binam Binshun of SLF MMO_RPG](https://medium.com/@The.World.of.Xbinshun.TWoXbi/binam-binshun-of-slf-rpg-511827c9e32c) — Binam Binshun, SLF MMO_RPG, creator story.
 
+### Additional pinned long-form works indexed later on 2026-11-11
+- [NIROOCITY — The Last Dream of Humanity](https://medium.com/@Niroo.Universe.NU/niroocity-c3edccff0a36) — Niroo City, Maya, lore guide, Vein, TWoN, WoXbi, city history; partial terminology/chronology review.
+- [BINAM BINSHUN — The Architect of a Heaven Yet to Be Built](https://medium.com/@Niroo.Universe.NU/binam-binshun-the-world-of-niroo-the-architect-of-a-heaven-yet-to-be-built-20587fdef570) — Binam Binshun, humanity, Niroo City, worldbuilding, character narrative, visual-source provenance pending.
+
 ## Network governance and status
 - A work or link published/listed on the connected official N.U public network is team-approved for network inclusion.
 - That inclusion alone does not alter Canon, transfer ownership, grant rights, or prove every factual claim.
@@ -67,4 +71,4 @@ The following items are published on connected N.U public profiles and are team-
 - Keep private contact details, personal data, credentials, private drafts, and unreviewed claims out.
 - A keyword is a discovery aid, not evidence that two works are equivalent.
 
-**Last updated:** 2026-11-11. Public GitHub Markdown and JSON are browser-readable and may be indexed by search engines; indexing is not guaranteed.
+**Last updated:** 2026-11-11 (follow-up: two pinned long-form works added). Public GitHub Markdown and JSON are browser-readable and may be indexed by search engines; indexing is not guaranteed.
