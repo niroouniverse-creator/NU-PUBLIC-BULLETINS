@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.3 — 2026-11-11
+- Added two previously published pinned long-form Niroo Universe works to the Public References Board, keyword index and central N.U Public Index.
+- Clarified that these are newly indexed older publications, not works newly published on 2026-11-11.
+- Recorded partial terminology/chronology and visual-source rights limitations; no full works or assets were mirrored.
+
+
 ## 1.2.2 — 2026-11-11
 - Added a featured notice for 23 newly indexed works from connected N.U public profiles.
 - Added seven published creator, narrative-method and research resources to the Media Publications board.
