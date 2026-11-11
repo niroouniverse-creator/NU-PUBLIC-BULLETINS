@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.4 — 2026-11-11
+- Added the public structural-framework article “The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence” to the references board, keyword index and central public index.
+- Marked its Niroo/Vein/Maya/Xbinshun/Niroo City definitions as partially reviewed with architecture compatibility pending; no Canon promotion or full-text mirroring.
+
+
 ## 1.2.3 — 2026-11-11
 - Added two previously published pinned long-form Niroo Universe works to the Public References Board, keyword index and central N.U Public Index.
 - Clarified that these are newly indexed older publications, not works newly published on 2026-11-11.
