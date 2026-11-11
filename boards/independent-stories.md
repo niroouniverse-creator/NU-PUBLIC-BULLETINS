@@ -3,7 +3,21 @@
 **Purpose:** Discover independently published stories, short fiction, comics, illustrations, visual experiments, and other creator works that may be related to or inspired by N.U.
 
 ## Listings
-_No independent stories or creator works have been registered on this board yet._
+## SRC-2026-0012 — THE WORLD OF NIROO: Lucifer, The Devil & Chaos
+
+- **Creator credit:** Binam Binshun (displayed Medium byline)
+- **Language / medium:** Persian / speculative dialogue and fiction
+- **Publication date:** Medium displayed “3 days ago” at retrieval on 2026-11-11; exact date not exposed
+- **Original publication:** [Medium — THE WORLD OF NIROO: Lucifer, The Devil & Chaos](https://medium.com/@bibinambinshun/the-world-of-niroo-lucifer-the-devil-chaos-76143ed7394a)
+- **Description:** A speculative dialogue in Niroo City featuring Lucifer, Kias/Chaos and an Observer, exploring law, freedom, choice, responsibility and uncertainty
+- **Relationship:** Independent creator fiction / N.U-related work; the author's profile is linked from a connected official N.U byline
+- **Network status:** TEAM-APPROVED_FOR_NETWORK_INCLUSION under the connected-profile governance recorded in ARC-2026-0006; the work remains independent and is not core N.U production or Canon
+- **Rights:** Public URL only; no reproduction/adaptation rights inferred
+- **Review status:** PARTIALLY_REVIEWED; full content/continuity review pending
+- **Last checked:** 2026-11-11
+- **Source record:** [SRC-2026-0012](https://github.com/niroouniverse-creator/NU-SOURCE-REGISTRY/blob/main/sources/2026/SRC-2026-0012-lucifer-devil-chaos-independent-story.md)
+
+
 
 ## Recognition principle
 An independent work does not need to become an official N.U reference to have value. If the creator publishes it independently and wants it discoverable, it may be listed here after the public URL, attribution, privacy, and rights notes are checked.
