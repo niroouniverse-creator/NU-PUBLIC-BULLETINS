@@ -10,6 +10,7 @@ A public discovery layer for Niroo Universe (N.U). This repository publishes con
 5. [N.U Public Team and Acknowledgments Chart](banners/public-team-chart.md)
 6. [N.U Narrative & Creative Product Research](banners/featured-nu-narrative-creative-products.md)
 7. [Latest Public N.U Works & Creator Resources](banners/featured-latest-publications-2026-11.md)
+8. [N.U Discovery Atlas](banners/featured-nu-discovery-atlas.md)
 
 ## Boards
 1. [Announcements](boards/announcements.md)
