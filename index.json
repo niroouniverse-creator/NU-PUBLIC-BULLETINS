@@ -4,14 +4,46 @@
   "repository": "NU-PUBLIC-BULLETINS",
   "visibility": "public",
   "boards": [
-    {"id":"announcements","path":"boards/announcements.md","record_type":"announcement"},
-    {"id":"media-publications","path":"boards/media-publications.md","record_type":"media_publication"},
-    {"id":"independent-stories","path":"boards/independent-stories.md","record_type":"independent_story"},
-    {"id":"future-development-proposals","path":"boards/future-development-proposals.md","record_type":"proposal"},
-    {"id":"creator-opportunities","path":"boards/creator-opportunities.md","record_type":"opportunity"},
-    {"id":"nu-public-references","path":"boards/nu-public-references.md","record_type":"reference"},
-    {"id":"independent-publications","path":"boards/independent-publications.md","record_type":"independent_work"},
-    {"id":"public-keyword-index","path":"boards/public-keyword-index.md","record_type":"discovery_index"}
+    {
+      "id": "announcements",
+      "path": "boards/announcements.md",
+      "record_type": "announcement"
+    },
+    {
+      "id": "media-publications",
+      "path": "boards/media-publications.md",
+      "record_type": "media_publication"
+    },
+    {
+      "id": "independent-stories",
+      "path": "boards/independent-stories.md",
+      "record_type": "independent_story"
+    },
+    {
+      "id": "future-development-proposals",
+      "path": "boards/future-development-proposals.md",
+      "record_type": "proposal"
+    },
+    {
+      "id": "creator-opportunities",
+      "path": "boards/creator-opportunities.md",
+      "record_type": "opportunity"
+    },
+    {
+      "id": "nu-public-references",
+      "path": "boards/nu-public-references.md",
+      "record_type": "reference"
+    },
+    {
+      "id": "independent-publications",
+      "path": "boards/independent-publications.md",
+      "record_type": "independent_work"
+    },
+    {
+      "id": "public-keyword-index",
+      "path": "boards/public-keyword-index.md",
+      "record_type": "discovery_index"
+    }
   ],
   "policies": [
     "policies/listing-policy.md",
@@ -25,7 +57,8 @@
     "banners/featured-seo-protocol.md",
     "banners/featured-quarantine-and-archive-protocol.md",
     "banners/public-team-chart.md",
-    "banners/featured-nu-narrative-creative-products.md"
+    "banners/featured-nu-narrative-creative-products.md",
+    "banners/featured-latest-publications-2026-11.md"
   ],
   "public_standards": [
     "https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md",
@@ -40,7 +73,21 @@
     "public_index": "https://github.com/niroouniverse-creator/N.U-Public-Index",
     "public_bulletins": "https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS"
   },
-  "public_guides": ["guides/nu-storytelling-creator-pathway.md"],
+  "public_guides": [
+    "guides/nu-storytelling-creator-pathway.md"
+  ],
   "machine_validation_is_final_approval": false,
-  "search_engine_indexing_guaranteed": false
+  "search_engine_indexing_guaranteed": false,
+  "network_governance": {
+    "official_account": "niroouniverse-creator",
+    "designation": "OFFICIAL_N_U_ACCOUNT_BY_TEAM_DECISION",
+    "network_inclusion": "TEAM_APPROVED_WHEN_A_WORK_OR_LINK_IS_PUBLISHED_OR_REGISTERED_ON_CONNECTED_OFFICIAL_N_U_PUBLIC_NETWORK_SURFACES",
+    "scope_limitations": [
+      "does_not_amend_canon",
+      "does_not_transfer_ownership",
+      "does_not_grant_reproduction_or_adaptation_rights",
+      "does_not_imply_blanket_endorsement",
+      "does_not_replace_machine_or_human_review"
+    ]
+  }
 }
