@@ -72,3 +72,11 @@ Full-content review and individual machine validation have not been completed fo
 Each listing should include title, canonical URL, concise summary, relevant headings/subtitles, publisher/creator only when verified, source date or version when available, and a status label. A listing alone does not establish Canon.
 
 Private repositories and internal files are intentionally not linked as public reading destinations.
+
+
+## Additional pinned long-form works newly indexed — 2026-11-11
+
+- [NIROOCITY — The Last Dream of Humanity](https://medium.com/@Niroo.Universe.NU/niroocity-c3edccff0a36) — lore guide narrated by Maya; displayed byline Binam Binshun; published 2026-06-16. Partial terminology/chronology review remains open; the listing is a source link, not a Canon determination.
+- [BINAM BINSHUN — The Architect of a Heaven Yet to Be Built](https://medium.com/@Niroo.Universe.NU/binam-binshun-the-world-of-niroo-the-architect-of-a-heaven-yet-to-be-built-20587fdef570) — short character/worldbuilding narrative; displayed byline Binam Binshun; published 2026-07-26. Visual-source provenance and reuse rights remain unverified.
+
+Both works were already published on a connected official N.U profile. Their network inclusion is team-approved; this listing does not grant text/image rights or amend Canon.
