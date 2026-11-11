@@ -8,6 +8,7 @@ This board is the official N.U public-network discovery layer for publicly acces
 - **N.U SEO and Media Publication Protocol** — [read protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md); keywords: N.U SEO, N.U SEO team, SEO article, Persian SEO, media publication, AI-assisted article writing.
 - **N.U Quarantine, Archive Identity and Conflict Control** — [read protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-QUARANTINE-AND-CONFLICT-CONTROL.md); keywords: N.U archive, archive reason, stable archive ID, quarantine, duplicate, contradiction, conflict resolution, deferred ideas.
 - **N.U Public Announcements** — [announcement board](announcements.md); keywords: N.U announcements, N.U public notices, creator updates, workflow status.
+- **Latest Public N.U Works & Creator Resources** — [featured notice](../banners/featured-latest-publications-2026-11.md); keywords: latest N.U works, pinned long-form works, public network discovery update.
 - **N.U Media Publications** — [media board](media-publications.md); keywords: N.U article, SEO article, N.U Persian Land, G.G Persian Land, N.U publication.
 - **N.U Independent Stories** — [independent works board](independent-stories.md); keywords: independent N.U story, creator story, fan work, independent interpretation, community art.
 - **Public Team Chart** — [chart](../banners/public-team-chart.md); keywords: N.U team, Niroo Universe team acknowledgments, public credits.
