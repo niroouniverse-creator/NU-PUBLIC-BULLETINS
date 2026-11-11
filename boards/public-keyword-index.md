@@ -59,6 +59,9 @@ The following items are published on connected N.U public profiles and are team-
 - [NIROOCITY — The Last Dream of Humanity](https://medium.com/@Niroo.Universe.NU/niroocity-c3edccff0a36) — Niroo City, Maya, lore guide, Vein, TWoN, WoXbi, city history; partial terminology/chronology review.
 - [BINAM BINSHUN — The Architect of a Heaven Yet to Be Built](https://medium.com/@Niroo.Universe.NU/binam-binshun-the-world-of-niroo-the-architect-of-a-heaven-yet-to-be-built-20587fdef570) — Binam Binshun, humanity, Niroo City, worldbuilding, character narrative, visual-source provenance pending.
 
+### Additional public framework article indexed later on 2026-11-11
+- [The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence](https://medium.com/@Niroo.Universe.NU/the-world-of-niroo-a-structural-framework-of-civilization-consciousness-and-digital-existence-d616f3f2a816) — Niroo, Chaos, Vein, Maya, Binam Binshun, Xbinshun, Niroo City, civilizational framework; terminology/architecture review pending.
+
 ## Network governance and status
 - A work or link published/listed on the connected official N.U public network is team-approved for network inclusion.
 - That inclusion alone does not alter Canon, transfer ownership, grant rights, or prove every factual claim.
