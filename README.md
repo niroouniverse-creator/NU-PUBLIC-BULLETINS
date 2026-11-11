@@ -9,6 +9,7 @@ A public discovery layer for Niroo Universe (N.U). This repository publishes con
 4. [N.U Quarantine, Archive Identity and Conflict Control](banners/featured-quarantine-and-archive-protocol.md)
 5. [N.U Public Team and Acknowledgments Chart](banners/public-team-chart.md)
 6. [N.U Narrative & Creative Product Research](banners/featured-nu-narrative-creative-products.md)
+7. [Latest Public N.U Works & Creator Resources](banners/featured-latest-publications-2026-11.md)
 
 ## Boards
 1. [Announcements](boards/announcements.md)
@@ -28,11 +29,11 @@ A public discovery layer for Niroo Universe (N.U). This repository publishes con
 - [Creator Review and Recognition Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATOR-STATUS-AND-RECOGNITION.md)
 
 ## Rules
-- A listing is not endorsement, a Canon decision, rights clearance, or proof of official status.
+- Publication/listing on connected official N.U public network surfaces is team-approved for network inclusion. This does not by itself change Canon, ownership, licensing or reproduction rights, or imply blanket endorsement.
 - Keep raw intake, personal data, credentials, confidential material, and unreviewed claims out of this public repository.
 - Prefer metadata, short summaries, attribution, and links to authorized source locations.
 - Preserve provenance and status history in the appropriate private infrastructure; publish only minimum necessary discovery metadata.
-- Independent/community work remains independent unless separately reviewed and formally published by N.U.
+- Independent/community work remains independent as a work unless separately accepted as an N.U reference or official N.U production; listing it in the official network is team-approved for network inclusion only.
 - A failed retrieval alone is not proof that a work was deleted; follow the [Link Availability and Reappearance Policy](policies/link-availability-and-reappearance.md).
 - Git commit history persists. This repository is not a history-free or guaranteed short-memory store.
 
