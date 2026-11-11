@@ -29,6 +29,10 @@ These are earlier publications discovered from the connected Niroo Universe prof
 - [NIROOCITY — The Last Dream of Humanity](https://medium.com/@Niroo.Universe.NU/niroocity-c3edccff0a36) — lore guide narrated by Maya; published 2026-06-16; terminology/chronology review pending.
 - [BINAM BINSHUN — The Architect of a Heaven Yet to Be Built](https://medium.com/@Niroo.Universe.NU/binam-binshun-the-world-of-niroo-the-architect-of-a-heaven-yet-to-be-built-20587fdef570) — short character/worldbuilding narrative; published 2026-07-26; visual-source rights review pending.
 
+## Additional public framework article newly indexed — 2026-11-11
+
+- [The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence](https://medium.com/@Niroo.Universe.NU/the-world-of-niroo-a-structural-framework-of-civilization-consciousness-and-digital-existence-d616f3f2a816) — published 2026-06-23; displayed byline Binam Binshun. This is an earlier conceptual framework article, newly indexed now; terminology and architecture review remain open.
+
 ## Review and rights status
 
 - Public URLs and displayed publication dates were checked through the connected profiles and page links.
