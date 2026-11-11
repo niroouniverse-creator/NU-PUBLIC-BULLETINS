@@ -40,6 +40,7 @@ These are earlier publications discovered from the connected Niroo Universe prof
 
 ## Follow the network
 
+- [N.U Public Announcements](../boards/announcements.md)
 - [N.U Public References](../boards/nu-public-references.md)
 - [Media Publications](../boards/media-publications.md)
 - [Public Keyword and Discovery Index](../boards/public-keyword-index.md)
