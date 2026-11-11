@@ -82,3 +82,8 @@ Private repositories and internal files are intentionally not linked as public r
 - [BINAM BINSHUN — The Architect of a Heaven Yet to Be Built](https://medium.com/@Niroo.Universe.NU/binam-binshun-the-world-of-niroo-the-architect-of-a-heaven-yet-to-be-built-20587fdef570) — short character/worldbuilding narrative; displayed byline Binam Binshun; published 2026-07-26. Visual-source provenance and reuse rights remain unverified.
 
 Both works were already published on a connected official N.U profile. Their network inclusion is team-approved; this listing does not grant text/image rights or amend Canon.
+
+
+## Additional public framework article indexed — 2026-11-11
+
+- [The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence](https://medium.com/@Niroo.Universe.NU/the-world-of-niroo-a-structural-framework-of-civilization-consciousness-and-digital-existence-d616f3f2a816) — displayed byline Binam Binshun; published 2026-06-23. The four-minute conceptual article discusses Niroo, Chaos, Vein, Maya, Binam Binshun, Xbinshun, Niroo City, economy, education and family models. Status: partially reviewed; terminology and architecture compatibility remain open. Network inclusion is team-approved; this listing does not make every proposition Canon or grant rights.
