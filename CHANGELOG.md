@@ -52,3 +52,5 @@
 - Defined four discovery boards, record schema, listing policy, and attribution safeguards.
 
 - 2026-11-12: Added the linked creator-curated catalogue “Niroo Univere_N.U” to Public References, the Public Keyword Index, and the central N.U Public Index. The exact link is team-approved for network inclusion because it appears in a connected official N.U publication; individual outbound works remain unreviewed.
+
+- 2026-11-12: Removed links to private R17 source-record files from public boards; original public publication URLs and network-inclusion labels remain.
