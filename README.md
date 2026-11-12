@@ -46,4 +46,4 @@ The central Gateway and specialist processing repositories are not assumed publi
 See [index.json](index.json) and [CHANGELOG.md](CHANGELOG.md).
 
 ## Automation status
-No crawler, scheduled monitor, automatic restoration service, or live publication pipeline is claimed to be active until implemented and tested.
+A daily scheduled audit is configured to inspect connected N.U sources and public discovery surfaces. It is not a continuous crawler or automatic restoration service; drafts are not published, and public changes remain evidence-gated and individually verified.
