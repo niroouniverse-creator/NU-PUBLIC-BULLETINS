@@ -82,5 +82,12 @@ The following items are published on connected N.U public profiles and are team-
 **Last updated:** 2026-11-11 (follow-up: two pinned long-form works added). Public GitHub Markdown and JSON are browser-readable and may be indexed by search engines; indexing is not guaranteed.
 
 
+## Connected external catalogue reference — 2026-11-12
+
+- [Niroo Univere_N.U](https://medium.com/@Black.Fox.writes/niroo-univere-n-u-99081528028d) — a creator-curated Medium catalogue by the displayed byline Black Fox writes (published 2026-09-14), grouping links to The World of Niroo, The World of Xbinshun, Niroo Knowledge Library, AI engines, Binshun Family and other related sections.
+- **Network status:** TEAM-APPROVED_FOR_NETWORK_INCLUSION because this exact page is linked in the References section of the connected official N.U Medium article [From the Multiverse to the Atom](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa). Its external/creator-curated nature remains explicit; this does not make it an official N.U production, establish team membership, amend Canon, or grant ownership/reproduction rights.
+- **Review status:** PARTIALLY_REVIEWED; the catalogue page and visible link hierarchy were inspected, but individual outbound works and creator relationship remain pending.
+- **Source record:** [SRC-2026-0013](https://github.com/niroouniverse-creator/NU-SOURCE-REGISTRY/blob/main/sources/2026/SRC-2026-0013-niroo-univere-n-u-black-fox-writes.md).
+
 ## N.U Discovery Atlas — guided routes
 - **N.U Discovery Atlas** — [public bulletin board](discovery-atlas.md); [featured notice](../banners/featured-nu-discovery-atlas.md); keywords: N.U discovery atlas, Niroo Universe guide, BOOK, MOTOR, BOOK-MOTOR, N.U Signature, AI model navigation, creator research workflow, machine validation, source discovery.
