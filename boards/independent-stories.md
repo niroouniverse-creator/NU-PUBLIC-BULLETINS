@@ -17,7 +17,6 @@ Latest discovery notice: [Featured N.U works](../banners/featured-latest-publica
 - **Rights:** Public URL only; no reproduction/adaptation rights inferred
 - **Review status:** PARTIALLY_REVIEWED; full content/continuity review pending
 - **Last checked:** 2026-11-11
-- **Source record:** [SRC-2026-0012](https://github.com/niroouniverse-creator/NU-SOURCE-REGISTRY/blob/main/sources/2026/SRC-2026-0012-lucifer-devil-chaos-independent-story.md)
 
 
 
