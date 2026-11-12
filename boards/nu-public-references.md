@@ -73,7 +73,6 @@ Full-content review and individual machine validation have not been completed fo
 - [Niroo Univere_N.U](https://medium.com/@Black.Fox.writes/niroo-univere-n-u-99081528028d) — a creator-curated Medium catalogue by the displayed byline Black Fox writes (published 2026-09-14), grouping links to The World of Niroo, The World of Xbinshun, Niroo Knowledge Library, AI engines, Binshun Family and other related sections.
 - **Network status:** TEAM-APPROVED_FOR_NETWORK_INCLUSION because this exact page is linked in the References section of the connected official N.U Medium article [From the Multiverse to the Atom](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa). Its external/creator-curated nature remains explicit; this does not make it an official N.U production, establish team membership, amend Canon, or grant ownership/reproduction rights.
 - **Review status:** PARTIALLY_REVIEWED; the catalogue page and visible link hierarchy were inspected, but individual outbound works and creator relationship remain pending.
-- **Source record:** [SRC-2026-0013](https://github.com/niroouniverse-creator/NU-SOURCE-REGISTRY/blob/main/sources/2026/SRC-2026-0013-niroo-univere-n-u-black-fox-writes.md).
 
 ## Other public creator resources
 - [N.U Storytelling & Creator Pathway](../guides/nu-storytelling-creator-pathway.md)
