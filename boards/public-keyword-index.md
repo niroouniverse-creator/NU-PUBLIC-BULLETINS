@@ -103,3 +103,6 @@ The following items are published on connected N.U public profiles and are team-
 - **The architectural development process at Catrinland** — Catrinland, architecture, circular city, urban planning prompt, visual development, reference-image provenance.
 
 All seven exact links are present in the connected catalogue. Network inclusion is team-approved; full review, Canon, rights, authorship and scientific claims remain separate. The relative-age metadata discrepancy on the two Catrinland profile cards is unresolved.
+
+
+This catalogue-source refresh is announced on the [N.U Public Announcements board](announcements.md) and indexed in the [central N.U Public Index](https://github.com/niroouniverse-creator/N.U-Public-Index/blob/main/index.json).
