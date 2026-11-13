@@ -1,6 +1,6 @@
 # Featured Notice — Latest Public N.U Works & Creator Resources
 
-**Updated:** 2026-11-11  
+**Updated:** 2026-11-13  
 **Status:** PUBLIC NETWORK DISCOVERY UPDATE  
 **Scope:** Already-published works on connected N.U public profiles; no unpublished drafts are included.
 
@@ -59,3 +59,21 @@ These are earlier publications discovered from the connected Niroo Universe prof
 - [Public Announcement and Routing Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-ANNOUNCEMENT-ROUTING.md)
 
 Search-engine indexing is not guaranteed. The public boards are maintained as crawlable Markdown and machine-readable navigation surfaces; actual indexing requires separate platform evidence.
+
+
+## Previously published works newly indexed from the connected catalogue — 2026-11-13
+
+These are not newly published on this date. Their original publication dates are preserved; they were individually surfaced and added to the public discovery index during this audit.
+
+### Symbolic and Mana-framework publications
+- [The Sacred Trees of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-sacred-trees-of-niroo-00b035cf86fc) — 2026-06-26.
+- [The Foundational Framework of Mana Studies in Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-foundational-framework-of-mana-studies-in-niroo-toward-a-unified-theory-of-magic-life-and-c5b4ff5b21ce) — 2026-07-03.
+- [Volume I — Foundations of Mana Science](https://medium.com/@The.World.of.Niroo.TWoN.N.C/volume-i-foundations-of-mana-science-the-foundational-principles-governing-the-scientific-study-909a1aaffe0d) — 2026-07-05.
+- [Volume II — Mana Biology](https://medium.com/@The.World.of.Niroo.TWoN.N.C/volume-ii-mana-biology-the-biological-foundations-of-life-mana-interaction-abstract-d1627f8c3d11) — 2026-07-11.
+
+### Historical and associated creator works
+- [The World of Xbinshun](https://medium.com/@The.World.of.Xbinshun.TWoXbi/the-world-of-xbinshun-4828bf59af2a) — 2024-10-28; historical creator story, not the Adrenaline Circuit URL.
+- [The value of knowledge in Catrinland](https://medium.com/@Black.Fox.writes/the-value-of-knowledge-in-catrinland-a8972221a991) — article page date 2026-11-05.
+- [The architectural development process at Catrinland](https://medium.com/@Black.Fox.writes/the-architectural-development-process-at-catrinland-5579af4e66c2) — article page date 2026-11-05.
+
+The exact URLs are linked from the connected N.U catalogue and are team-approved for network inclusion. Full content review, scientific claim validation, asset rights, Canon and ownership remain separate. No full work or asset is mirrored.
