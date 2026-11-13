@@ -113,3 +113,6 @@ The following already-published works were individually opened from the connecte
 - [The architectural development process at Catrinland](https://medium.com/@Black.Fox.writes/the-architectural-development-process-at-catrinland-5579af4e66c2) — article page shows 2026-11-05; visual-development/architectural prompt. Relative-age label differs; reference-image rights and engineering validity remain unverified.
 
 No full text, prompt, image or asset is mirrored. These listings do not establish team membership, Canon, scientific validity, ownership or reuse permission.
+
+
+This catalogue-source refresh is announced on the [N.U Public Announcements board](announcements.md) and indexed in the [central N.U Public Index](https://github.com/niroouniverse-creator/N.U-Public-Index/blob/main/index.json).
