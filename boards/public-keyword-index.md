@@ -90,3 +90,16 @@ The following items are published on connected N.U public profiles and are team-
 
 ## N.U Discovery Atlas — guided routes
 - **N.U Discovery Atlas** — [public bulletin board](discovery-atlas.md); [featured notice](../banners/featured-nu-discovery-atlas.md); keywords: N.U discovery atlas, Niroo Universe guide, BOOK, MOTOR, BOOK-MOTOR, N.U Signature, AI model navigation, creator research workflow, machine validation, source discovery.
+
+
+## Connected catalogue works — 2026-11-13
+
+- **The Sacred Trees of Niroo** — Sacred Trees, symbolic ecology, family, city, ancestry, friendship, culture, civilization, Niroo worldview.
+- **The Foundational Framework of Mana Studies in Niroo** — Mana Studies, Magic Codex, Mana field, Aetheric layer, conceptual framework, speculative worldbuilding.
+- **Volume I — Foundations of Mana Science** — Mana Science, ontology, epistemology, Aetheric reality, embodiment theory, in-world science framework.
+- **Volume II — Mana Biology** — Mana Biology, life–Mana interaction, speculative biology, Mana ecology, genetics, physiology, in-world framework.
+- **The World of Xbinshun (2024)** — Xbinshun, historical storyworld, creator narrative, worldbuilding, chronology.
+- **The value of knowledge in Catrinland** — Catrinland, education system, lifelong learning, examinations, professions, creator worldbuilding.
+- **The architectural development process at Catrinland** — Catrinland, architecture, circular city, urban planning prompt, visual development, reference-image provenance.
+
+All seven exact links are present in the connected catalogue. Network inclusion is team-approved; full review, Canon, rights, authorship and scientific claims remain separate. The relative-age metadata discrepancy on the two Catrinland profile cards is unresolved.
