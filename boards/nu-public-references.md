@@ -95,3 +95,21 @@ Both works were already published on a connected official N.U profile. Their net
 ## Additional public framework article indexed — 2026-11-11
 
 - [The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence](https://medium.com/@Niroo.Universe.NU/the-world-of-niroo-a-structural-framework-of-civilization-consciousness-and-digital-existence-d616f3f2a816) — displayed byline Binam Binshun; published 2026-06-23. The four-minute conceptual article discusses Niroo, Chaos, Vein, Maya, Binam Binshun, Xbinshun, Niroo City, economy, education and family models. Status: partially reviewed; terminology and architecture compatibility remain open. Network inclusion is team-approved; this listing does not make every proposition Canon or grant rights.
+ 
+
+## Connected catalogue outbound works indexed — 2026-11-13
+
+The following already-published works were individually opened from the connected catalogue [Niroo Univere_N.U](https://medium.com/@Black.Fox.writes/niroo-univere-n-u-99081528028d). Their exact links are team-approved for network inclusion under current N.U governance. Their review, Canon, rights, ownership and factual status remain separate.
+
+### The World of Niroo — symbolic and Mana-framework works
+- [The Sacred Trees of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-sacred-trees-of-niroo-00b035cf86fc) — published 2026-06-26; symbolic ecology of family, city, memory, friendship, culture and civilization. Partial review; symbolic claims are not treated as empirical facts.
+- [The Foundational Framework of Mana Studies in Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-foundational-framework-of-mana-studies-in-niroo-toward-a-unified-theory-of-magic-life-and-c5b4ff5b21ce) — published 2026-07-03; conceptual position paper for the Magic Codex. In-world Mana/Aetheric propositions remain distinct from empirical science.
+- [Volume I — Foundations of Mana Science](https://medium.com/@The.World.of.Niroo.TWoN.N.C/volume-i-foundations-of-mana-science-the-foundational-principles-governing-the-scientific-study-909a1aaffe0d) — published 2026-07-05; long-form ontology, epistemology, Mana and Aetheric framework. Deeper review pending.
+- [Volume II — Mana Biology](https://medium.com/@The.World.of.Niroo.TWoN.N.C/volume-ii-mana-biology-the-biological-foundations-of-life-mana-interaction-abstract-d1627f8c3d11) — published 2026-07-11; long-form in-world biology and Mana framework. Deeper review pending; source use of “canonical” language is not a Canon decision.
+
+### Historical and associated creator works
+- [The World of Xbinshun](https://medium.com/@The.World.of.Xbinshun.TWoXbi/the-world-of-xbinshun-4828bf59af2a) — published 2024-10-28; historical creator story, distinct from Adrenaline Circuit and The Seven Echoes. Continuity review pending.
+- [The value of knowledge in Catrinland](https://medium.com/@Black.Fox.writes/the-value-of-knowledge-in-catrinland-a8972221a991) — article page shows 2026-11-05; Catrinland education-system worldbuilding. The profile feed's relative-age label differs from the article date; article-page date retained.
+- [The architectural development process at Catrinland](https://medium.com/@Black.Fox.writes/the-architectural-development-process-at-catrinland-5579af4e66c2) — article page shows 2026-11-05; visual-development/architectural prompt. Relative-age label differs; reference-image rights and engineering validity remain unverified.
+
+No full text, prompt, image or asset is mirrored. These listings do not establish team membership, Canon, scientific validity, ownership or reuse permission.
