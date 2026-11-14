@@ -77,3 +77,21 @@ These are not newly published on this date. Their original publication dates are
 - [The architectural development process at Catrinland](https://medium.com/@Black.Fox.writes/the-architectural-development-process-at-catrinland-5579af4e66c2) — article page date 2026-11-05.
 
 The exact URLs are linked from the connected N.U catalogue and are team-approved for network inclusion. Full content review, scientific claim validation, asset rights, Canon and ownership remain separate. No full work or asset is mirrored.
+
+
+## Previously published Catrinland works newly indexed — 2026-11-14
+
+These are not newly published on this date. They were individually opened from the connected Niroo Univere_N.U catalogue and added to the public discovery index. The exact catalogue links are team-approved for network inclusion. Full continuity/content review and rights/asset permissions remain separate.
+
+- [Family and Child Protection Laws in Catrinland](https://medium.com/@Black.Fox.writes/family-and-child-protection-laws-in-catrinland-64f7938af9f1) — relative date: 2 days ago at retrieval 2026-11-14; review pending.
+- [The Value of People’s Mental Health in Catrinland](https://medium.com/@Black.Fox.writes/the-value-of-peoples-mental-health-in-catrinland-712b7ce4d60d) — 2026-11-01; review pending.
+- [Catrinland Citizenship Rights](https://medium.com/@Black.Fox.writes/catrinland-citizenship-rights-5b73244c8a86) — 2026-11-01; review pending.
+- [The Laws of Catrinland](https://medium.com/@Black.Fox.writes/the-laws-of-catrinland-fd332b1c1b93) — 2026-11-01; review pending.
+- [Institutions of Catrinland](https://medium.com/@Black.Fox.writes/institutions-of-catrinland-e42323c2a3ac) — 2026-11-02; review pending.
+- [Observercat](https://medium.com/@Black.Fox.writes/observercat-75fd3425a61e) — 2026-11-03; review pending.
+- [Black Rose](https://medium.com/@Black.Fox.writes/black-rose-f1f788f8b562) — 2026-11-03; review pending.
+- [White Rose](https://medium.com/@Black.Fox.writes/white-rose-5ec497727efd) — 2026-11-03; review pending.
+- [Ordinary Life in Catrinland / Story of Raha](https://medium.com/@Black.Fox.writes/ordinary-life-in-catrinland-story-of-raha-0d05a1d91848) — 2026-11-03; review pending.
+- [Story Remy’s Life / The Life of a Catrinland Citizen](https://medium.com/@Black.Fox.writes/remys-life-the-life-of-a-catrinland-citizen-b939233f3434) — 2026-11-04; review pending.
+
+See [Public References](../boards/nu-public-references.md), [Public Keyword Index](../boards/public-keyword-index.md), and [ANN-2026-0008](../boards/announcements.md).
