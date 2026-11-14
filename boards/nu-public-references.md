@@ -116,3 +116,21 @@ No full text, prompt, image or asset is mirrored. These listings do not establis
 
 
 This catalogue-source refresh is announced on the [N.U Public Announcements board](announcements.md) and indexed in the [central N.U Public Index](https://github.com/niroouniverse-creator/N.U-Public-Index/blob/main/index.json).
+
+
+## Catrinland catalogue works — indexed 2026-11-14
+
+These ten already-published works were individually opened from the Catrinland section of the connected [Niroo Univere_N.U catalogue](https://medium.com/@Black.Fox.writes/niroo-univere-n-u-99081528028d). Their exact links are team-approved for network inclusion under current N.U governance. Publication dates below are taken from the article pages; one page displayed only a relative age at retrieval. Full content, continuity, asset rights and reuse permissions remain separate review gates.
+
+- [Family and Child Protection Laws in Catrinland](https://medium.com/@Black.Fox.writes/family-and-child-protection-laws-in-catrinland-64f7938af9f1) — relative date: 2 days ago at retrieval 2026-11-14; family, child protection, Catrinland, parental responsibility, counselling, child rights; review pending.
+- [The Value of People’s Mental Health in Catrinland](https://medium.com/@Black.Fox.writes/the-value-of-peoples-mental-health-in-catrinland-712b7ce4d60d) — 2026-11-01; Catrinland, mental health, counselling, psychology, personal AI assistant; review pending.
+- [Catrinland Citizenship Rights](https://medium.com/@Black.Fox.writes/catrinland-citizenship-rights-5b73244c8a86) — 2026-11-01; Catrinland, citizenship, civic rights, public benefits, social system; review pending.
+- [The Laws of Catrinland](https://medium.com/@Black.Fox.writes/the-laws-of-catrinland-fd332b1c1b93) — 2026-11-01; Catrinland, laws, freedom, legal system, public order; review pending.
+- [Institutions of Catrinland](https://medium.com/@Black.Fox.writes/institutions-of-catrinland-e42323c2a3ac) — 2026-11-02; Catrinland, institutions, Black Rose Council, governance, professional representation; review pending.
+- [Observercat](https://medium.com/@Black.Fox.writes/observercat-75fd3425a61e) — 2026-11-03; Catrinland, Observercat, monitoring team, visual prompt, uniform design; review pending.
+- [Black Rose](https://medium.com/@Black.Fox.writes/black-rose-f1f788f8b562) — 2026-11-03; Catrinland, Black Rose Council, civilian uniform, visual prompt; review pending.
+- [White Rose](https://medium.com/@Black.Fox.writes/white-rose-5ec497727efd) — 2026-11-03; Catrinland, White Rose, border guards, white wolf, uniform design prompt; review pending.
+- [Ordinary Life in Catrinland / Story of Raha](https://medium.com/@Black.Fox.writes/ordinary-life-in-catrinland-story-of-raha-0d05a1d91848) — 2026-11-03; Catrinland, Raha, life story, fiction, character chronology; review pending.
+- [Story Remy’s Life / The Life of a Catrinland Citizen](https://medium.com/@Black.Fox.writes/remys-life-the-life-of-a-catrinland-citizen-b939233f3434) — 2026-11-04; Catrinland, Remy, life story, fiction, character chronology; review pending.
+
+This discovery update is recorded in [ANN-2026-0008](announcements.md) and the [latest works banner](../banners/featured-latest-publications-2026-11.md).
