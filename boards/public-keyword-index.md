@@ -106,3 +106,19 @@ All seven exact links are present in the connected catalogue. Network inclusion 
 
 
 This catalogue-source refresh is announced on the [N.U Public Announcements board](announcements.md) and indexed in the [central N.U Public Index](https://github.com/niroouniverse-creator/N.U-Public-Index/blob/main/index.json).
+
+
+## Catrinland catalogue works — 2026-11-14
+
+- **Family and Child Protection Laws in Catrinland** — family, child protection, Catrinland, parental responsibility, counselling, child rights; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+- **The Value of People’s Mental Health in Catrinland** — Catrinland, mental health, counselling, psychology, personal AI assistant; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+- **Catrinland Citizenship Rights** — Catrinland, citizenship, civic rights, public benefits, social system; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+- **The Laws of Catrinland** — Catrinland, laws, freedom, legal system, public order; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+- **Institutions of Catrinland** — Catrinland, institutions, Black Rose Council, governance, professional representation; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+- **Observercat** — Catrinland, Observercat, monitoring team, visual prompt, uniform design; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+- **Black Rose** — Catrinland, Black Rose Council, civilian uniform, visual prompt; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+- **White Rose** — Catrinland, White Rose, border guards, white wolf, uniform design prompt; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+- **Ordinary Life in Catrinland / Story of Raha** — Catrinland, Raha, life story, fiction, character chronology; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+- **Story Remy’s Life / The Life of a Catrinland Citizen** — Catrinland, Remy, life story, fiction, character chronology; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
+
+See [N.U Public References](nu-public-references.md), [latest works banner](../banners/featured-latest-publications-2026-11.md), and [ANN-2026-0008](announcements.md).
