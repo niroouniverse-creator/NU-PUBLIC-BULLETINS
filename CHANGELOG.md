@@ -57,3 +57,5 @@
 
 
 - 2026-11-13: Individually inspected seven outbound works from the connected Niroo Univere_N.U catalogue; added original URLs and review caveats to Public References, Public Keyword Index, featured latest-works notice and central N.U Public Index. Original publication dates retained; no full works/assets copied; no Canon or rights status inferred.
+
+- 2026-11-14: Individually opened ten Catrinland works linked from the connected Niroo Univere_N.U catalogue; registered source/archive metadata, updated Public References, Public Keyword Index, latest-works banner and central public index. All are previously published works; full content/continuity/rights review remains pending. One internal same-source sanction inconsistency was preserved in the private archive conflict queue; no private conflict record was linked publicly.
