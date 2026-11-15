@@ -43,4 +43,10 @@ A work that has not been published or listed on the connected official network, 
 - Link to the [Creator Review and Recognition Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATOR-STATUS-AND-RECOGNITION.md).
 
 ## Boundaries
-Listing does not create ownership, transfer rights, or automatically convert an independent work into Canon or an official N.U production. Link to the creator's original publication; do not mirror full copyrighted works. Link to the creator's original publication; do not mirror full copyrighted works.
+Listing does not create ownership, transfer rights, or automatically convert an independent work into Canon or an official N.U production. Link to the creator's original publication; do not mirror full copyrighted works.
+
+
+## Network navigation
+- [N.U Public Index](https://github.com/niroouniverse-creator/N.U-Public-Index)
+- [N.U Public Announcements](announcements.md)
+- [N.U Public Protocol Registry](https://github.com/niroouniverse-creator/N.U-Protocol-Registry)
