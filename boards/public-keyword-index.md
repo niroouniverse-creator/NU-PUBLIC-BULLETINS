@@ -122,3 +122,8 @@ This catalogue-source refresh is announced on the [N.U Public Announcements boar
 - **Story Remy’s Life / The Life of a Catrinland Citizen** — Catrinland, Remy, life story, fiction, character chronology; linked from the connected N.U catalogue; network inclusion team-approved; full review pending.
 
 See [N.U Public References](nu-public-references.md), [latest works banner](../banners/featured-latest-publications-2026-11.md), and [ANN-2026-0008](announcements.md).
+
+
+## Bibliographic review update — 2026-11-15
+
+- **From the Multiverse to the Atom** — cosmology, cosmic web, observable universe, multiverse hypothesis, Earth, Standard Model, scientific references; limited reference review found a Read & Le Bihan DOI mismatch; original-source correction pending; see [ANN-2026-0009](announcements.md) and [correct DOI](https://doi.org/10.1007/s11229-021-03137-0).
