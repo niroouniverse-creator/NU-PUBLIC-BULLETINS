@@ -95,3 +95,8 @@ These are not newly published on this date. They were individually opened from t
 - [Story Remy’s Life / The Life of a Catrinland Citizen](https://medium.com/@Black.Fox.writes/remys-life-the-life-of-a-catrinland-citizen-b939233f3434) — 2026-11-04; review pending.
 
 See [Public References](../boards/nu-public-references.md), [Public Keyword Index](../boards/public-keyword-index.md), and [ANN-2026-0008](../boards/announcements.md).
+
+
+## Reference review notice — 2026-11-15
+
+- [From the Multiverse to the Atom](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa) — already-published connected N.U article; limited reference review identified a Read & Le Bihan DOI mismatch. The article's printed DOI is `10.1007/s11153-021-09809-8`; the cited *Synthese* paper's verified DOI is `10.1007/s11229-021-03137-0` ([Oxford bibliographic record](https://ora.ox.ac.uk/objects/uuid:6fbd2568-0caf-42cb-84ce-baa4975253b4)). Correction at the original source is pending; N.U did not edit the article. This notice is not a full scientific peer review or machine-validation result. See [ANN-2026-0009](../boards/announcements.md).
