@@ -48,3 +48,8 @@ Machine validation is not final producer or N.U team approval. Do not list an un
 ## Follow updates
 - [N.U Public Announcements](announcements.md)
 - [Public Keyword and Discovery Index](public-keyword-index.md)
+
+
+## Reference review update — 2026-11-15
+
+- [From the Multiverse to the Atom: Where Earth and Humanity Stand in the Map of Reality](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa) — already-published connected N.U article; limited bibliography review identified a Read & Le Bihan DOI mismatch. The source prints `10.1007/s11153-021-09809-8`; the Oxford record confirms `10.1007/s11229-021-03137-0` for the cited *Synthese* paper. Original-source correction is pending. Other checked NASA, CERN, Philip Goff and Quanta references matched the limited claims reviewed. Network inclusion remains team-approved; scientific peer review, rights, Canon and production approval remain separate. See [ANN-2026-0009](announcements.md) and the [correct DOI](https://doi.org/10.1007/s11229-021-03137-0).
