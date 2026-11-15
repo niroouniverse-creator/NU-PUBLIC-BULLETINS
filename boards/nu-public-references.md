@@ -134,3 +134,8 @@ These ten already-published works were individually opened from the Catrinland s
 - [Story Remy’s Life / The Life of a Catrinland Citizen](https://medium.com/@Black.Fox.writes/remys-life-the-life-of-a-catrinland-citizen-b939233f3434) — 2026-11-04; Catrinland, Remy, life story, fiction, character chronology; review pending.
 
 This discovery update is recorded in [ANN-2026-0008](announcements.md) and the [latest works banner](../banners/featured-latest-publications-2026-11.md).
+
+
+## Reference review update — 2026-11-15
+
+- [From the Multiverse to the Atom: Where Earth and Humanity Stand in the Map of Reality](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa) — the article remains a connected N.U public work and is team-approved for network inclusion. A limited reference check found a DOI mismatch: the article prints `10.1007/s11153-021-09809-8`, while the Oxford University Research Archive confirms the cited Read & Le Bihan paper in *Synthese* 199 (2021), 7749–7771 as `10.1007/s11229-021-03137-0`. Correction at the original source is pending; the original article was not edited by N.U. Other checked NASA, CERN, Philip Goff and Quanta references matched the limited claims reviewed. This is not full scientific peer review or machine validation. See [ANN-2026-0009](announcements.md) and the [correct DOI](https://doi.org/10.1007/s11229-021-03137-0).
