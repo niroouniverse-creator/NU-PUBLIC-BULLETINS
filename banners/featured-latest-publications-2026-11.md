@@ -11,8 +11,8 @@ Under N.U public-network governance, works and links published or registered on 
 ## Newly surfaced creator and knowledge resources
 
 - [The Art of Writing Without Dialogue](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-art-of-writing-without-dialogue-b19bf913ba86) — narrative method and visual storytelling; published 2026-11-11; partial human-assisted review of rubric/templates; full chapter and rights review pending; see [ANN-2026-0010](../boards/announcements.md).
-- [N.U | Earth, the Multiverse, and the Probable Futures of Existence](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-earth-the-multiverse-and-the-probable-futures-of-existence-2d97097a3d48) — interdisciplinary worldview/research publication; 2026-11-09; incorrect Ellis et al. DOI remains in source; correct DOI identified; see [ANN-2026-0011](../boards/announcements.md).
-- [From the Multiverse to the Atom](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa) — cosmology and scale explainer; 2026-11-09.
+- [N.U | Earth, the Multiverse, and the Probable Futures of Existence](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-earth-the-multiverse-and-the-probable-futures-of-existence-2d97097a3d48) — interdisciplinary worldview/research publication; 2026-11-08; incorrect Ellis et al. DOI remains in source; correct DOI identified; see [ANN-2026-0011](../boards/announcements.md).
+- [From the Multiverse to the Atom](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa) — cosmology and scale explainer; 2026-11-08. See [ANN-2026-0009](../boards/announcements.md).
 - [N.U — The Grammar of Point of View in Narrative](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-the-grammar-of-point-of-view-in-narrative-bbb080908def) — narrative-method resource; 2026-10-19.
 - [CHAT GPT ENGINE N.U](https://medium.com/@The.World.of.Niroo.TWoN.N.C/chat-gpt-engine-n-u-44f56f6d00d7) — AI-assisted creator-engine publication; 2026-10-10.
 - [LGBTQ+ N.U — The N.U Social Engine](https://medium.com/@The.World.of.Niroo.TWoN.N.C/lgbtq-n-u-12f20e0fc235) — social-engine/world-design publication; 2026-10-08.
