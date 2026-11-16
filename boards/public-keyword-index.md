@@ -30,8 +30,8 @@ This board is the official N.U public-network discovery layer for publicly acces
 The following items are published on connected N.U public profiles and are team-approved for network inclusion. Listing is not a Canon amendment, rights grant, ownership transfer or blanket endorsement. Full-content review and machine validation remain separate.
 
 ### Creator resources, narrative method and research
-- [The Art of Writing Without Dialogue](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-art-of-writing-without-dialogue-b19bf913ba86) — writing without dialogue, visual storytelling, scene design, narrative method, creator guide.
-- [N.U | Earth, the Multiverse, and the Probable Futures of Existence](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-earth-the-multiverse-and-the-probable-futures-of-existence-2d97097a3d48) — N.U Earth, multiverse, probable futures, cosmology, worldview.
+- [The Art of Writing Without Dialogue](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-art-of-writing-without-dialogue-b19bf913ba86) — writing without dialogue, visual storytelling, scene design, narrative method, creator guide, 100-point evaluation rubric, five-part test, human–AI production workflow; partial review update [ANN-2026-0010](announcements.md).
+- [N.U | Earth, the Multiverse, and the Probable Futures of Existence](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-earth-the-multiverse-and-the-probable-futures-of-existence-2d97097a3d48) — N.U Earth, multiverse, probable futures, cosmology, worldview, Ellis Kirchner Stoeger 2004, DOI correction, bibliographic review [ANN-2026-0011](announcements.md).
 - [From the Multiverse to the Atom](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa) — multiverse, atom, cosmic scale, Earth, humanity.
 - [N.U — The Grammar of Point of View in Narrative](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-the-grammar-of-point-of-view-in-narrative-bbb080908def) — point of view, narrative grammar, first person, focalization.
 - [CHAT GPT ENGINE N.U](https://medium.com/@The.World.of.Niroo.TWoN.N.C/chat-gpt-engine-n-u-44f56f6d00d7) — ChatGPT engine, AI-assisted creation, N.U creative tools.
@@ -127,3 +127,9 @@ See [N.U Public References](nu-public-references.md), [latest works banner](../b
 ## Bibliographic review update — 2026-11-15
 
 - **From the Multiverse to the Atom** — cosmology, cosmic web, observable universe, multiverse hypothesis, Earth, Standard Model, scientific references; limited reference review found a Read & Le Bihan DOI mismatch; original-source correction pending; see [ANN-2026-0009](announcements.md) and [correct DOI](https://doi.org/10.1007/s11229-021-03137-0).
+
+
+## Review updates — 2026-11-16
+
+- **The Art of Writing Without Dialogue:** partial human-assisted review recorded for its creator rubric, five-part test, production templates and human–AI responsibility split; full content and rights review remain pending. See [ANN-2026-0010](announcements.md).
+- **N.U Earth:** the original article still contains an incorrect Ellis et al. DOI; the correct publisher DOI is [10.1111/j.1365-2966.2004.07261.x](https://doi.org/10.1111/j.1365-2966.2004.07261.x). Source correction remains pending. See [ANN-2026-0011](announcements.md).
