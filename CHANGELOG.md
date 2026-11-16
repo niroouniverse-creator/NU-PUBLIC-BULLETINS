@@ -3,6 +3,7 @@
 ## 1.2.7 — 2026-11-16
 - Updated the existing Art of Writing Without Dialogue and N.U Earth review states to PARTIALLY_REVIEWED; published ANN-2026-0010 and ANN-2026-0011; refreshed Media Publications, Public References, Public Keyword Index and the latest-works banner. No new publication, source-page edit, Canon change, rights grant or machine-validator run.
 - Rechecked the Ellis et al. 2004 DOI against the official Oxford Academic record; the correct DOI is 10.1111/j.1365-2966.2004.07261.x, while the original N.U Earth article remains uncorrected.
+- Corrected the publication dates for N.U Earth and From the Multiverse to the Atom to 2026-11-08 after reopening both canonical Medium article pages; earlier 2026-11-09 profile-relative estimates remain preserved in private audit history.
 
 ## 1.2.6 — 2026-11-12
 - Added the N.U Discovery Atlas public bulletin board and featured banner as a guided route across existing indexes, primary sources, and creator protocols.
