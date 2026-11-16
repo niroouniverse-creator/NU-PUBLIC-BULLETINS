@@ -1,7 +1,10 @@
 # Changelog
 
+## 1.2.9 — 2026-11-16
+- Correction: the 1.2.8 note is withdrawn. The README already linked to the existing banners/featured-quarantine-and-archive-protocol.md; the failed lookup used an incorrect assumed filename, not a broken README link. No README edit occurred and no broken banner link was established.
+
 ## 1.2.8 — 2026-11-16
-- Fixed the featured quarantine/archive banner link in README to match the existing canonical banner filename. No new source, work publication, review approval, Canon change, or rights change.
+- WITHDRAWN by 1.2.9: an audit lookup used a non-existent assumed filename; the README already pointed to the existing canonical banner file. No README edit occurred and no broken link existed.
 
 ## 1.2.7 — 2026-11-16
 - Updated the existing Art of Writing Without Dialogue and N.U Earth review states to PARTIALLY_REVIEWED; published ANN-2026-0010 and ANN-2026-0011; refreshed Media Publications, Public References, Public Keyword Index and the latest-works banner. No new publication, source-page edit, Canon change, rights grant or machine-validator run.
