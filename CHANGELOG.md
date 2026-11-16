@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.8 — 2026-11-16
+- Fixed the featured quarantine/archive banner link in README to match the existing canonical banner filename. No new source, work publication, review approval, Canon change, or rights change.
+
 ## 1.2.7 — 2026-11-16
 - Updated the existing Art of Writing Without Dialogue and N.U Earth review states to PARTIALLY_REVIEWED; published ANN-2026-0010 and ANN-2026-0011; refreshed Media Publications, Public References, Public Keyword Index and the latest-works banner. No new publication, source-page edit, Canon change, rights grant or machine-validator run.
 - Rechecked the Ellis et al. 2004 DOI against the official Oxford Academic record; the correct DOI is 10.1111/j.1365-2966.2004.07261.x, while the original N.U Earth article remains uncorrected.
