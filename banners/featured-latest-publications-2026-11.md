@@ -1,6 +1,6 @@
 # Featured Notice — Latest Public N.U Works & Creator Resources
 
-**Updated:** 2026-11-13  
+**Updated:** 2026-11-16  
 **Status:** PUBLIC NETWORK DISCOVERY UPDATE  
 **Scope:** Already-published works on connected N.U public profiles; no unpublished drafts are included.
 
@@ -10,8 +10,8 @@ Under N.U public-network governance, works and links published or registered on 
 
 ## Newly surfaced creator and knowledge resources
 
-- [The Art of Writing Without Dialogue](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-art-of-writing-without-dialogue-b19bf913ba86) — narrative method and visual storytelling; published 2026-11-11.
-- [N.U | Earth, the Multiverse, and the Probable Futures of Existence](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-earth-the-multiverse-and-the-probable-futures-of-existence-2d97097a3d48) — interdisciplinary worldview/research publication; 2026-11-09.
+- [The Art of Writing Without Dialogue](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-art-of-writing-without-dialogue-b19bf913ba86) — narrative method and visual storytelling; published 2026-11-11; partial human-assisted review of rubric/templates; full chapter and rights review pending; see [ANN-2026-0010](../boards/announcements.md).
+- [N.U | Earth, the Multiverse, and the Probable Futures of Existence](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-earth-the-multiverse-and-the-probable-futures-of-existence-2d97097a3d48) — interdisciplinary worldview/research publication; 2026-11-09; incorrect Ellis et al. DOI remains in source; correct DOI identified; see [ANN-2026-0011](../boards/announcements.md).
 - [From the Multiverse to the Atom](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa) — cosmology and scale explainer; 2026-11-09.
 - [N.U — The Grammar of Point of View in Narrative](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-the-grammar-of-point-of-view-in-narrative-bbb080908def) — narrative-method resource; 2026-10-19.
 - [CHAT GPT ENGINE N.U](https://medium.com/@The.World.of.Niroo.TWoN.N.C/chat-gpt-engine-n-u-44f56f6d00d7) — AI-assisted creator-engine publication; 2026-10-10.
@@ -100,3 +100,9 @@ See [Public References](../boards/nu-public-references.md), [Public Keyword Inde
 ## Reference review notice — 2026-11-15
 
 - [From the Multiverse to the Atom](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa) — already-published connected N.U article; limited reference review identified a Read & Le Bihan DOI mismatch. The article's printed DOI is `10.1007/s11153-021-09809-8`; the cited *Synthese* paper's verified DOI is `10.1007/s11229-021-03137-0` ([Oxford bibliographic record](https://ora.ox.ac.uk/objects/uuid:6fbd2568-0caf-42cb-84ce-baa4975253b4)). Correction at the original source is pending; N.U did not edit the article. This notice is not a full scientific peer review or machine-validation result. See [ANN-2026-0009](../boards/announcements.md).
+
+
+## Review updates — 2026-11-16
+
+- [The Art of Writing Without Dialogue](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-art-of-writing-without-dialogue-b19bf913ba86): partial creator-method review; the article's 100-point rubric is not the N.U machine validator. Full chapter, external-reference and rights review remain pending. See [ANN-2026-0010](../boards/announcements.md).
+- [N.U Earth](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-earth-the-multiverse-and-the-probable-futures-of-existence-2d97097a3d48): official Oxford record confirms the correct Ellis et al. DOI [10.1111/j.1365-2966.2004.07261.x](https://doi.org/10.1111/j.1365-2966.2004.07261.x); the original Medium citation remains uncorrected. See [ANN-2026-0011](../boards/announcements.md).
