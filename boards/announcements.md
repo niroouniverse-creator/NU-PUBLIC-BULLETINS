@@ -4,6 +4,7 @@
 
 ## Featured notices
 - [N.U Discovery Atlas — Guided Discovery Routes](../banners/featured-nu-discovery-atlas.md)
+- [N.U Open Creation Standards & Seed to Product](../banners/featured-nu-standards-and-seed-to-product.md)
 - [N.U Public Protocols for Models and Creators](../banners/featured-public-protocols.md)
 - [N.U SEO and Media Publication Protocol](../banners/featured-seo-protocol.md)
 - [N.U Quarantine, Archive Identity and Conflict Control](../banners/featured-quarantine-and-archive-protocol.md)
