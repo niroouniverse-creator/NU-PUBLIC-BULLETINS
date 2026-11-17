@@ -27,7 +27,7 @@ N.U — Niroo Universe is organizing a cross-media creative system: a feeling, w
 Read the public standards, retrieve relevant public sources, record provenance, validate the actual medium, and label uncertainty. Machine validation is not human approval. Public guidance does not grant rights to reproduce or adapt protected works.
 
 ## Where to check
-- [Announcements](announcements.md)
+- [Announcements](../boards/announcements.md)
 - [Media Publications](../boards/media-publications.md)
 - [Independent Stories](../boards/independent-stories.md)
 
