@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.0 — 2026-11-17
+- Fixed the broken relative Announcements link in the Seed-to-Product featured banner and added the reciprocal featured-notice link on the announcements board. No new work was published; no Canon, rights, or machine-validation status changed.
+
+
 ## 1.2.9 — 2026-11-16
 - Correction: the 1.2.8 note is withdrawn. The README already linked to the existing banners/featured-quarantine-and-archive-protocol.md; the failed lookup used an incorrect assumed filename, not a broken README link. No README edit occurred and no broken banner link was established.
 
