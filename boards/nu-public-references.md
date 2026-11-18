@@ -61,7 +61,7 @@ The Dark Apple source notes explicitly distinguish this emotional-story series f
 ### Xbinshun story, project and visual-development works
 - [The Rise of the Shadow](https://medium.com/@The.World.of.Xbinshun.TWoXbi/the-rise-of-the-shadow-2b8f189330b2) — 2026-10-30.
 - [DARK APPLE — Shangri-La Frontier MMO_RPG](https://medium.com/@The.World.of.Xbinshun.TWoXbi/dark-apple-6f911c8dd222) — 2026-10-16.
-- [STREET STARS N.U](https://medium.com/@The.World.of.Xbinshun.TWoXbi/street-stars-n-u-711d9961fedd) — 2026-10-05; project continuity review pending.
+- [STREET STARS N.U](https://medium.com/@The.World.of.Xbinshun.TWoXbi/street-stars-n-u-711d9961fedd) — 2026-10-05; partial human-assisted review on 2026-11-18 (PASS_WITH_LIMITATIONS) covers the 17-character roster, eight pairings, limited-witness POV, project boundaries and story-engine structure; private-source comparison and game-reference/visual-asset rights remain blocked or untested. The article's Canon / Production Foundation label is its own declared status, not a blanket rights or claim validation.
 - [Binshun Family — Cinematic Poster Prompt](https://medium.com/@The.World.of.Xbinshun.TWoXbi/binshun-family-9e70eff3e68c) — 2026-09-25; visual asset/rights review pending.
 - [Niroo Universe (N.U) — The Seven Echoes](https://medium.com/@The.World.of.Xbinshun.TWoXbi/niroo-universe-n-u-5b2f82c3202f) — 2026-09-16.
 - [Binam Binshun of SLF MMO_RPG](https://medium.com/@The.World.of.Xbinshun.TWoXbi/binam-binshun-of-slf-rpg-511827c9e32c) — 2026-09-27.
