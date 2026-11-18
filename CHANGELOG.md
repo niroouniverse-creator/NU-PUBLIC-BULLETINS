@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.1 — 2026-11-18
+- Updated the existing STREET STARS N.U Public References entry after a full-page human-assisted review; retained its original 2026-10-05 publication date and existing public URL. Roster/POV/pairing/story-engine scope is PASS_WITH_LIMITATIONS; private-source comparison and visual/game-reference rights remain open. No new source, announcement, Canon change, rights grant, or machine-validator result.
+
 ## 1.3.0 — 2026-11-17
 - Fixed the broken relative Announcements link in the Seed-to-Product featured banner and added the reciprocal featured-notice link on the announcements board. No new work was published; no Canon, rights, or machine-validation status changed.
 
