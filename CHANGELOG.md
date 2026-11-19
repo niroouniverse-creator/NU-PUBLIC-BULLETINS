@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.2 — 2026-11-19
+- Registered the profile-listed N.U DISCOVERY ATLAS companion article in Media Publications, Public References, Public Keyword Index and the central public index; updated the Discovery Atlas board, featured notices and ANN-2026-0012 with the exact Medium URL.
+- The connected Medium profile listing verifies publication presence; exact timestamp remains unverified and direct article retrieval timed out. Content/claims/asset-rights review remains pending; machine validation NOT_TESTED. No Canon change, rights grant or full-text/asset mirroring.
+
+
+
 ## 1.3.1 — 2026-11-18
 - Updated the existing STREET STARS N.U Public References entry after a full-page human-assisted review; retained its original 2026-10-05 publication date and existing public URL. Roster/POV/pairing/story-engine scope is PASS_WITH_LIMITATIONS; private-source comparison and visual/game-reference rights remain open. No new source, announcement, Canon change, rights grant, or machine-validator result.
 
