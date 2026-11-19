@@ -1,12 +1,12 @@
 # N.U Discovery Atlas — Public Bulletin Board
 **Board ID:** NU-DISCOVERY-ATLAS-001  
-**Status:** PUBLIC DISCOVERY ROUTE — ARTICLE DEVELOPMENT / MACHINE REVIEW OPEN  
+**Status:** PUBLIC DISCOVERY ROUTE — PROFILE-LISTED PUBLICATION / CONTENT REVIEW PENDING  
 **Purpose:** Guide readers and AI systems to the right N.U source, publication, protocol, and validation route without reproducing existing works or duplicating the official indexes.
 
 ## What this board is
 The Discovery Atlas is a guided map across the N.U public knowledge network. It is not a replacement for the central [N.U Public Index](https://github.com/niroouniverse-creator/N.U-Public-Index), the [Public References Board](nu-public-references.md), or the [Public Keyword and Discovery Index](public-keyword-index.md). Those surfaces remain the authoritative discovery lists. The Atlas explains how to move between them and which route fits a reader's or creator's task.
 
-The companion Medium article is under development and has not been registered here as a published media item. Its public URL will be added only after publication and verification.
+The companion Medium article is now displayed on the connected [The World of Niroo Medium profile](https://medium.com/@The.World.of.Niroo.TWoN.N.C): [N.U DISCOVERY ATLAS — An Atlas for Discovering the World of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-discovery-atlas-dd1889d48b52). The profile displayed “10h ago” at retrieval on 2026-11-19; the exact publication timestamp remains unverified. Direct retrieval of the article page timed out during this audit, so content review remains BLOCKED / NEEDS_HUMAN_REVIEW. This board records profile-level publication presence and routes readers to the original URL; it does not claim machine PASS, rights clearance or Canon approval. See [ANN-2026-0012](announcements.md).
 
 ## Start discovery
 - [N.U Public Index](https://github.com/niroouniverse-creator/N.U-Public-Index) — central public index and structured discovery data.
@@ -50,7 +50,7 @@ For a BOOK-MOTOR, transform the validated material into a coherent narrative tha
 ## Status and governance
 - This board is a discovery route, not a Canon registry or rights grant.
 - Machine validation, producer decision, and N.U team decision are distinct states.
-- No machine PASS, producer approval, team approval, or Medium publication is claimed for the companion Atlas article at this stage.
+- Profile-level publication presence is verified; direct article retrieval and content review remain pending. No machine PASS, producer acceptance, rights clearance or Canon decision is claimed.
 - Public-network inclusion does not by itself amend Canon, transfer ownership, grant reproduction/adaptation rights, or imply blanket endorsement.
 - Do not reproduce full source works here; link to authorized primary pages.
 
