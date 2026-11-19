@@ -1,6 +1,6 @@
 # Featured Notice — Latest Public N.U Works & Creator Resources
 
-**Updated:** 2026-11-16  
+**Updated:** 2026-11-19  
 **Status:** PUBLIC NETWORK DISCOVERY UPDATE  
 **Scope:** Already-published works on connected N.U public profiles; no unpublished drafts are included.
 
@@ -106,3 +106,8 @@ See [Public References](../boards/nu-public-references.md), [Public Keyword Inde
 
 - [The Art of Writing Without Dialogue](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-art-of-writing-without-dialogue-b19bf913ba86): partial creator-method review; the article's 100-point rubric is not the N.U machine validator. Full chapter, external-reference and rights review remain pending. See [ANN-2026-0010](../boards/announcements.md).
 - [N.U Earth](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-earth-the-multiverse-and-the-probable-futures-of-existence-2d97097a3d48): official Oxford record confirms the correct Ellis et al. DOI [10.1111/j.1365-2966.2004.07261.x](https://doi.org/10.1111/j.1365-2966.2004.07261.x); the original Medium citation remains uncorrected. See [ANN-2026-0011](../boards/announcements.md).
+
+
+## N.U Discovery Atlas companion article — 2026-11-19
+
+- [N.U DISCOVERY ATLAS — An Atlas for Discovering the World of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-discovery-atlas-dd1889d48b52) — displayed on the connected The World of Niroo Medium profile with relative age “10h ago” at retrieval; exact publication timestamp unverified. Profile-level publication presence is verified. Direct article retrieval timed out; content, claims, citations, images/assets and rights review remain pending. Machine validation NOT_TESTED. Network inclusion is team-approved; no Canon change or rights grant is implied. See [ANN-2026-0012](../boards/announcements.md) and the [Discovery Atlas board](../boards/discovery-atlas.md).
