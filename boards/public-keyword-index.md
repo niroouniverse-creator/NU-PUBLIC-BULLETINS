@@ -133,3 +133,7 @@ See [N.U Public References](nu-public-references.md), [latest works banner](../b
 
 - **The Art of Writing Without Dialogue:** partial human-assisted review recorded for its creator rubric, five-part test, production templates and human–AI responsibility split; full content and rights review remain pending. See [ANN-2026-0010](announcements.md).
 - **N.U Earth:** the original article still contains an incorrect Ellis et al. DOI; the correct publisher DOI is [10.1111/j.1365-2966.2004.07261.x](https://doi.org/10.1111/j.1365-2966.2004.07261.x). Source correction remains pending. See [ANN-2026-0011](announcements.md).
+
+
+## N.U Discovery Atlas — 2026-11-19
+- [N.U DISCOVERY ATLAS — An Atlas for Discovering the World of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-discovery-atlas-dd1889d48b52) — keywords: N.U Discovery Atlas, Niroo Universe guide, public discovery map, creator navigation, BOOK, MOTOR, BOOK-MOTOR, N.U Signature, AI model navigation, machine validation, source discovery. Profile listing verified on the connected The World of Niroo Medium profile; exact timestamp unverified; direct article retrieval timed out; content review pending. See [ANN-2026-0012](announcements.md), [Discovery Atlas board](discovery-atlas.md), and [Media Publications](media-publications.md).
