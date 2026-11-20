@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.3 — 2026-11-20
+- Recovered the full N.U DISCOVERY ATLAS article page and completed a scope-limited human-assisted structure/navigation review; all seven linked destination pages opened. Public review state updated to PARTIALLY_REVIEWED.
+- Updated the Discovery Atlas board and featured notices, Media Publications, Public References, Public Keyword Index, ANN-2026-0012, and the central Public Index. Marked ANN-2026-0006 as a historical launch notice superseded by ANN-2026-0012.
+- Exact publication date, cover-image provenance/rights, accessibility/SEO, deeper Canon compatibility and machine validation remain unverified. No new work, Canon change, rights grant, full-text copy or asset mirroring.
+
 ## 1.3.2 — 2026-11-19
 - Registered the profile-listed N.U DISCOVERY ATLAS companion article in Media Publications, Public References, Public Keyword Index and the central public index; updated the Discovery Atlas board, featured notices and ANN-2026-0012 with the exact Medium URL.
 - The connected Medium profile listing verifies publication presence; exact timestamp remains unverified and direct article retrieval timed out. Content/claims/asset-rights review remains pending; machine validation NOT_TESTED. No Canon change, rights grant or full-text/asset mirroring.
