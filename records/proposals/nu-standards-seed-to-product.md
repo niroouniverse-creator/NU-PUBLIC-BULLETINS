@@ -10,10 +10,11 @@ Publish model-independent, cross-media N.U creation and validation guidance and 
 Text, books, encyclopedias, illustration, posters, stationery, physical/digital products, comics, film, animation, games, fashion, and cultural experiences.
 
 ## Public references
-- [Standards index](https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_PUBLIC_STANDARDS_INDEX.md)
-- [Creative product standard](https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_CREATIVE_PRODUCT_STANDARD.md)
-- [Machine validation standard](https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_MACHINE_VALIDATION_STANDARD.md)
-- [Quarantine and error-control standard](https://github.com/mobinabinshun-beep/NU-MASTER-GATEWAY/blob/main/NU_QUARANTINE_CONTROL_STANDARD.md)
+- [N.U Public Protocol Registry — standards index](https://github.com/niroouniverse-creator/N.U-Protocol-Registry)
+- [Public Model Entry Point](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md)
+- [Cross-media Creation and Machine Validation Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATION-AND-MACHINE-VALIDATION.md)
+- [Book and Book-Motor Production Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-BOOK-AND-BOOK-MOTOR-PRODUCTION.md)
+- [Quarantine and Conflict-Control Protocol](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-QUARANTINE-AND-CONFLICT-CONTROL.md)
 
 ## Workstreams
 1. Stabilize the verified repository map and responsibilities.
