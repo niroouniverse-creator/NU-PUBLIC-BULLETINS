@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.4 — 2026-11-21
+- Replaced stale public proposal references that resolved through a moved, non-public working location with current creator-facing N.U protocol links; no private working files or content were exposed.
+- Added the Book and Book-Motor Production protocol to the public standards index and its README; the machine-readable public indexes now enumerate all seven protocols in the public registry.
+- No source publication, Canon, rights, or machine-validation status changed.
+
 ## 1.3.3 — 2026-11-20
 - Recovered the full N.U DISCOVERY ATLAS article page and completed a scope-limited human-assisted structure/navigation review; all seven linked destination pages opened. Public review state updated to PARTIALLY_REVIEWED.
 - Updated the Discovery Atlas board and featured notices, Media Publications, Public References, Public Keyword Index, ANN-2026-0012, and the central Public Index. Marked ANN-2026-0006 as a historical launch notice superseded by ANN-2026-0012.
