@@ -3,7 +3,7 @@
 ## 1.3.5 — 2026-11-22
 - Updated the existing The Rise of the Shadow reference with a scope-limited human-assisted review note; TOC, POV, attribution, Canon, rights and machine checks remain pending.
 - Added the already-published Parsi Land Niroo Universe creator note to Public References, the public keyword board and the central Public Index. This is a reference/index update, not a new publication or Canon decision.
-- A separate personal narrative on the same connected profile was archived metadata-only in the private intake boundary and was not mirrored or added to public indexes. No personal text/assets were copied.
+- No personal content or assets were copied or mirrored.
 - No new announcement, latest-works banner, Canon change, rights grant, or machine-validation PASS.
 
 
