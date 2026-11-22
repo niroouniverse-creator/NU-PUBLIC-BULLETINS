@@ -137,3 +137,8 @@ See [N.U Public References](nu-public-references.md), [latest works banner](../b
 
 ## N.U Discovery Atlas — 2026-11-19
 - [N.U DISCOVERY ATLAS — An Atlas for Discovering the World of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-discovery-atlas-dd1889d48b52) — keywords: N.U Discovery Atlas, Niroo Universe guide, public discovery map, reader navigation, BOOK, MOTOR, BOOK-MOTOR, N.U Signature, source discovery. Full article page retrieved 2026-11-20; human-assisted structure/navigation review PASS_WITH_LIMITATIONS; all seven linked destinations opened. Exact date, cover-image rights, accessibility/SEO and machine validation remain unverified. See [ANN-2026-0012](announcements.md), [Discovery Atlas board](discovery-atlas.md), and [Media Publications](media-publications.md).
+
+
+## Connected creator note indexed — 2026-11-22
+
+- [Parsi Land Niroo Universe](https://medium.com/@Mobina_Pour_Moradi/parsi-land-niroo-universe-696039feec32) — Parsi Land, Niroo Universe, creator note, community acknowledgement; published 2026-09-19; source identity/date/scope partially reviewed; team-approved for network inclusion; no Canon claim.
