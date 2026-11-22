@@ -59,7 +59,7 @@ The Dark Apple source notes explicitly distinguish this emotional-story series f
 - [قلمرو احساس Dark Apple 6](https://medium.com/@Niroo.Universe.NU/%D9%82%D9%84%D9%85%D8%B1%D9%88-%D8%A7%D8%AD%D8%B3%D8%A7%D8%B3-dark-apple-6-d0e1e9feaa0d) — 2026-10-08.
 
 ### Xbinshun story, project and visual-development works
-- [The Rise of the Shadow](https://medium.com/@The.World.of.Xbinshun.TWoXbi/the-rise-of-the-shadow-2b8f189330b2) — 2026-10-30.
+- [The Rise of the Shadow](https://medium.com/@The.World.of.Xbinshun.TWoXbi/the-rise-of-the-shadow-2b8f189330b2) — 2026-10-30; full page retrieved 2026-11-22; human-assisted identity/structure/narrative-arc review PASS_WITH_LIMITATIONS. TOC completeness, narrator/POV, “A Story by TWoN” versus Xbinshun byline, Canon comparison, asset rights and machine validation remain pending; no source edit or Canon write.
 - [DARK APPLE — Shangri-La Frontier MMO_RPG](https://medium.com/@The.World.of.Xbinshun.TWoXbi/dark-apple-6f911c8dd222) — 2026-10-16.
 - [STREET STARS N.U](https://medium.com/@The.World.of.Xbinshun.TWoXbi/street-stars-n-u-711d9961fedd) — 2026-10-05; partial human-assisted review on 2026-11-18 (PASS_WITH_LIMITATIONS) covers the 17-character roster, eight pairings, limited-witness POV, project boundaries and story-engine structure; private-source comparison and game-reference/visual-asset rights remain blocked or untested. The article's Canon / Production Foundation label is its own declared status, not a blanket rights or claim validation.
 - [Binshun Family — Cinematic Poster Prompt](https://medium.com/@The.World.of.Xbinshun.TWoXbi/binshun-family-9e70eff3e68c) — 2026-09-25; visual asset/rights review pending.
@@ -150,3 +150,8 @@ This discovery update is recorded in [ANN-2026-0008](announcements.md) and the [
 ## N.U Discovery Atlas — publication update 2026-11-19
 
 - [N.U DISCOVERY ATLAS — An Atlas for Discovering the World of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-discovery-atlas-dd1889d48b52) — canonical article page retrieved 2026-11-20; displayed byline The World of Niroo and 4 min read; exact publication date remains unverified because Medium displayed relative-age labels only. Human-assisted structure/navigation review is PASS_WITH_LIMITATIONS; six routes and all seven linked destinations were checked and opened. Cover-image provenance/rights, accessibility/SEO, deeper Canon compatibility and machine validation remain NOT_TESTED. Internal source and archive records remain private and are intentionally not linked here. Network inclusion is team-approved; no Canon change or rights grant is implied. See [ANN-2026-0012](announcements.md) and the [Discovery Atlas board](discovery-atlas.md).
+
+
+## Connected creator note — 2026-11-22
+
+- [Parsi Land Niroo Universe](https://medium.com/@Mobina_Pour_Moradi/parsi-land-niroo-universe-696039feec32) — published 2026-09-19; short public creator/community note on the connected Mobina_Pour_Moradi profile; team-approved for network inclusion. No Canon claim, rights grant or new production approval is implied.
