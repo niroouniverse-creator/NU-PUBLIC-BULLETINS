@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.5 — 2026-11-22
+- Updated the existing The Rise of the Shadow reference with a scope-limited human-assisted review note; TOC, POV, attribution, Canon, rights and machine checks remain pending.
+- Added the already-published Parsi Land Niroo Universe creator note to Public References, the public keyword board and the central Public Index. This is a reference/index update, not a new publication or Canon decision.
+- A separate personal narrative on the same connected profile was archived metadata-only in the private intake boundary and was not mirrored or added to public indexes. No personal text/assets were copied.
+- No new announcement, latest-works banner, Canon change, rights grant, or machine-validation PASS.
+
+
 ## 1.3.4 — 2026-11-21
 - Replaced stale public proposal references that resolved through a moved, non-public working location with current creator-facing N.U protocol links; no private working files or content were exposed.
 - Added the Book and Book-Motor Production protocol to the public standards index and its README; the machine-readable public indexes now enumerate all seven protocols in the public registry.
